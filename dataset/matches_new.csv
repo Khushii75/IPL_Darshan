@@ -1,0 +1,582 @@
+id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin,target_runs,target_overs,super_over,method,umpire1,umpire2,year
+829705,2015,Kolkata,2015-04-08,League,M Morkel,Eden Gardens,KKR,MI,KKR,field,KKR,wickets,7.0,169.0,20.0,N,,S Ravi,C Shamshuddin,2015
+829707,2015,Chennai,2015-04-09,League,A Nehra,MA Chidambaram Stadium,CSK,DC,DC,field,CSK,runs,1.0,151.0,20.0,N,,RK Illingworth,VA Kulkarni,2015
+829709,2015,Pune,2015-04-10,League,JP Faulkner,Maharashtra Cricket Association Stadium,PBKS,RR,PBKS,field,RR,runs,26.0,163.0,20.0,N,,SD Fry,CB Gaffaney,2015
+829711,2015,Chennai,2015-04-11,League,BB McCullum,MA Chidambaram Stadium,CSK,SRH,CSK,bat,CSK,runs,45.0,210.0,20.0,N,,RK Illingworth,VA Kulkarni,2015
+829713,2015,Kolkata,2015-04-11,League,CH Gayle,Eden Gardens,KKR,RCB,RCB,field,RCB,wickets,3.0,178.0,20.0,N,,S Ravi,C Shamshuddin,2015
+829715,2015,Delhi,2015-04-12,League,DJ Hooda,Feroz Shah Kotla,DC,RR,RR,field,RR,wickets,3.0,185.0,20.0,N,,SD Fry,CB Gaffaney,2015
+829717,2015,Mumbai,2015-04-12,League,GJ Bailey,Wankhede Stadium,MI,PBKS,MI,field,PBKS,runs,18.0,178.0,20.0,N,,AK Chaudhary,K Srinivasan,2015
+829719,2015,Bangalore,2015-04-13,League,DA Warner,M Chinnaswamy Stadium,RCB,SRH,SRH,field,SRH,wickets,8.0,167.0,20.0,N,,RM Deshpande,RK Illingworth,2015
+829721,2015,Ahmedabad,2015-04-14,League,SPD Smith,Narendra Modi Stadium,RR,MI,MI,bat,RR,wickets,7.0,165.0,20.0,N,,AK Chaudhary,SD Fry,2015
+829725,2015,Pune,2015-04-15,League,MA Agarwal,Maharashtra Cricket Association Stadium,PBKS,DC,PBKS,bat,DC,wickets,5.0,166.0,20.0,N,,CB Gaffaney,K Srinath,2015
+829727,2015,Visakhapatnam,2015-04-16,League,AM Rahane,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,SRH,RR,RR,field,RR,wickets,6.0,128.0,20.0,N,,PG Pathak,S Ravi,2015
+829729,2015,Mumbai,2015-04-17,League,A Nehra,Wankhede Stadium,MI,CSK,MI,bat,CSK,wickets,6.0,184.0,20.0,N,,AK Chaudhary,M Erasmus,2015
+829731,2015,Visakhapatnam,2015-04-18,League,JP Duminy,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,SRH,DC,DC,bat,DC,runs,4.0,168.0,20.0,N,,PG Pathak,S Ravi,2015
+829733,2015,Pune,2015-04-18,League,AD Russell,Maharashtra Cricket Association Stadium,PBKS,KKR,KKR,field,KKR,wickets,4.0,156.0,20.0,N,,SD Fry,CK Nandan,2015
+829735,2015,Ahmedabad,2015-04-19,League,AM Rahane,Narendra Modi Stadium,RR,CSK,CSK,bat,RR,wickets,8.0,157.0,20.0,N,,AK Chaudhary,M Erasmus,2015
+829737,2015,Bangalore,2015-04-19,League,Harbhajan Singh,M Chinnaswamy Stadium,RCB,MI,RCB,field,MI,runs,18.0,210.0,20.0,N,,RK Illingworth,VA Kulkarni,2015
+829739,2015,Delhi,2015-04-20,League,UT Yadav,Feroz Shah Kotla,DC,KKR,KKR,field,KKR,wickets,6.0,147.0,20.0,N,,SD Fry,CB Gaffaney,2015
+829741,2015,Ahmedabad,2015-04-21,League,SE Marsh,Narendra Modi Stadium,RR,PBKS,PBKS,field,PBKS,tie,,192.0,20.0,Y,,M Erasmus,S Ravi,2015
+829743,2015,Visakhapatnam,2015-04-22,League,DA Warner,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,SRH,KKR,KKR,field,SRH,runs,16.0,118.0,12.0,N,D/L,RK Illingworth,VA Kulkarni,2015
+829745,2015,Bangalore,2015-04-22,League,SK Raina,M Chinnaswamy Stadium,RCB,CSK,RCB,field,CSK,runs,27.0,182.0,20.0,N,,JD Cloete,C Shamshuddin,2015
+829747,2015,Delhi,2015-04-23,League,SS Iyer,Feroz Shah Kotla,DC,MI,MI,field,DC,runs,37.0,191.0,20.0,N,,SD Fry,CK Nandan,2015
+829749,2015,Ahmedabad,2015-04-24,League,MA Starc,Narendra Modi Stadium,RR,RCB,RCB,field,RCB,wickets,9.0,131.0,20.0,N,,M Erasmus,S Ravi,2015
+829751,2015,Mumbai,2015-04-25,League,SL Malinga,Wankhede Stadium,MI,SRH,MI,bat,MI,runs,20.0,158.0,20.0,N,,HDPK Dharmasena,CB Gaffaney,2015
+829753,2015,Chennai,2015-04-25,League,BB McCullum,MA Chidambaram Stadium,CSK,PBKS,CSK,bat,CSK,runs,97.0,193.0,20.0,N,,JD Cloete,C Shamshuddin,2015
+829757,2015,Delhi,2015-04-26,League,VR Aaron,Feroz Shah Kotla,DC,RCB,RCB,field,RCB,wickets,10.0,96.0,20.0,N,,M Erasmus,S Ravi,2015
+829759,2015,Chandigarh,2015-04-27,League,TA Boult,"Punjab Cricket Association Stadium, Mohali",PBKS,SRH,PBKS,field,SRH,runs,20.0,151.0,20.0,N,,HDPK Dharmasena,CB Gaffaney,2015
+829765,2015,Chennai,2015-04-28,League,DJ Bravo,MA Chidambaram Stadium,CSK,KKR,KKR,field,CSK,runs,2.0,135.0,20.0,N,,RM Deshpande,VA Kulkarni,2015
+829763,2015,Bangalore,2015-04-29,League,,M Chinnaswamy Stadium,RCB,RR,RR,field,,no result,,,,N,,JD Cloete,PG Pathak,2015
+829723,2015,Kolkata,2015-04-30,League,AD Russell,Eden Gardens,KKR,CSK,KKR,field,KKR,wickets,7.0,166.0,20.0,N,,AK Chaudhary,M Erasmus,2015
+829767,2015,Delhi,2015-05-01,League,NM Coulter-Nile,Feroz Shah Kotla,DC,PBKS,DC,field,DC,wickets,9.0,119.0,20.0,N,,RK Illingworth,S Ravi,2015
+829769,2015,Mumbai,2015-05-01,League,AT Rayudu,Wankhede Stadium,MI,RR,RR,field,MI,runs,8.0,188.0,20.0,N,,HDPK Dharmasena,CK Nandan,2015
+829771,2015,Bangalore,2015-05-02,League,Mandeep Singh,M Chinnaswamy Stadium,RCB,KKR,RCB,field,RCB,wickets,7.0,112.0,10.0,N,,JD Cloete,PG Pathak,2015
+829773,2015,Hyderabad,2015-05-02,League,DA Warner,Rajiv Gandhi International Stadium,SRH,CSK,CSK,field,SRH,runs,22.0,193.0,20.0,N,,AK Chaudhary,K Srinivasan,2015
+829775,2015,Chandigarh,2015-05-03,League,LMP Simmons,"Punjab Cricket Association Stadium, Mohali",PBKS,MI,MI,bat,MI,runs,23.0,173.0,20.0,N,,RK Illingworth,VA Kulkarni,2015
+829777,2015,Mumbai,2015-05-03,League,AM Rahane,Brabourne Stadium,RR,DC,DC,field,RR,runs,14.0,190.0,20.0,N,,HDPK Dharmasena,CB Gaffaney,2015
+829779,2015,Chennai,2015-05-04,League,SK Raina,MA Chidambaram Stadium,CSK,RCB,CSK,bat,CSK,runs,24.0,149.0,20.0,N,,C Shamshuddin,K Srinath,2015
+829781,2015,Kolkata,2015-05-04,League,UT Yadav,Eden Gardens,KKR,SRH,SRH,field,KKR,runs,35.0,168.0,20.0,N,,AK Chaudhary,M Erasmus,2015
+829783,2015,Mumbai,2015-05-05,League,Harbhajan Singh,Wankhede Stadium,MI,DC,DC,bat,MI,wickets,5.0,153.0,20.0,N,,HDPK Dharmasena,CB Gaffaney,2015
+829785,2015,Bangalore,2015-05-06,League,CH Gayle,M Chinnaswamy Stadium,RCB,PBKS,PBKS,field,RCB,runs,138.0,227.0,20.0,N,,RK Illingworth,VA Kulkarni,2015
+829761,2015,Kolkata,2015-05-07,League,PP Chawla,Eden Gardens,KKR,DC,KKR,bat,KKR,runs,13.0,172.0,20.0,N,,AK Chaudhary,M Erasmus,2015
+829787,2015,Mumbai,2015-05-07,League,EJG Morgan,Brabourne Stadium,RR,SRH,RR,field,SRH,runs,7.0,202.0,20.0,N,,JD Cloete,C Shamshuddin,2015
+829789,2015,Chennai,2015-05-08,League,HH Pandya,MA Chidambaram Stadium,CSK,MI,CSK,bat,MI,wickets,6.0,159.0,20.0,N,,CB Gaffaney,CK Nandan,2015
+829791,2015,Kolkata,2015-05-09,League,AD Russell,Eden Gardens,KKR,PBKS,PBKS,bat,KKR,wickets,1.0,184.0,20.0,N,,AK Chaudhary,HDPK Dharmasena,2015
+829793,2015,Raipur,2015-05-09,League,MC Henriques,Shaheed Veer Narayan Singh International Stadium,DC,SRH,SRH,bat,SRH,runs,6.0,164.0,20.0,N,,VA Kulkarni,S Ravi,2015
+829795,2015,Mumbai,2015-05-10,League,AB de Villiers,Wankhede Stadium,MI,RCB,RCB,bat,RCB,runs,39.0,236.0,20.0,N,,JD Cloete,C Shamshuddin,2015
+829797,2015,Chennai,2015-05-10,League,RA Jadeja,MA Chidambaram Stadium,CSK,RR,CSK,bat,CSK,runs,12.0,158.0,20.0,N,,M Erasmus,CK Nandan,2015
+829799,2015,Hyderabad,2015-05-11,League,DA Warner,Rajiv Gandhi International Stadium,SRH,PBKS,SRH,bat,SRH,runs,5.0,186.0,20.0,N,,AK Chaudhary,HDPK Dharmasena,2015
+829801,2015,Raipur,2015-05-12,League,Z Khan,Shaheed Veer Narayan Singh International Stadium,DC,CSK,CSK,bat,DC,wickets,6.0,120.0,20.0,N,,RK Illingworth,VA Kulkarni,2015
+829803,2015,Chandigarh,2015-05-13,League,AR Patel,"Punjab Cricket Association Stadium, Mohali",PBKS,RCB,RCB,field,PBKS,runs,22.0,107.0,10.0,N,,JD Cloete,C Shamshuddin,2015
+829805,2015,Mumbai,2015-05-14,League,HH Pandya,Wankhede Stadium,MI,KKR,KKR,field,MI,runs,5.0,172.0,20.0,N,,RK Illingworth,VA Kulkarni,2015
+829807,2015,Hyderabad,2015-05-15,League,V Kohli,Rajiv Gandhi International Stadium,SRH,RCB,SRH,bat,RCB,wickets,6.0,81.0,6.0,N,D/L,AK Chaudhary,HDPK Dharmasena,2015
+829809,2015,Chandigarh,2015-05-16,League,P Negi,"Punjab Cricket Association Stadium, Mohali",PBKS,CSK,PBKS,bat,CSK,wickets,7.0,131.0,20.0,N,,CK Nandan,C Shamshuddin,2015
+829811,2015,Mumbai,2015-05-16,League,SR Watson,Brabourne Stadium,RR,KKR,RR,bat,RR,runs,9.0,200.0,20.0,N,,RM Deshpande,RK Illingworth,2015
+829815,2015,Hyderabad,2015-05-17,League,MJ McClenaghan,Rajiv Gandhi International Stadium,SRH,MI,SRH,bat,MI,wickets,9.0,114.0,20.0,N,,CB Gaffaney,K Srinath,2015
+829813,2015,Bangalore,2015-05-17,League,,M Chinnaswamy Stadium,RCB,DC,RCB,field,,no result,,188.0,20.0,N,,HDPK Dharmasena,K Srinivasan,2015
+829817,2015,Mumbai,2015-05-19,Qualifier 1,KA Pollard,Wankhede Stadium,CSK,MI,MI,bat,MI,runs,25.0,188.0,20.0,N,,HDPK Dharmasena,RK Illingworth,2015
+829819,2015,Pune,2015-05-20,Eliminator,AB de Villiers,Maharashtra Cricket Association Stadium,RCB,RR,RCB,bat,RCB,runs,71.0,181.0,20.0,N,,AK Chaudhary,C Shamshuddin,2015
+829821,2015,Ranchi,2015-05-22,Qualifier 2,A Nehra,JSCA International Stadium Complex,CSK,RCB,CSK,field,CSK,wickets,3.0,140.0,20.0,N,,AK Chaudhary,CB Gaffaney,2015
+829823,2015,Kolkata,2015-05-24,Final,RG Sharma,Eden Gardens,MI,CSK,CSK,field,MI,runs,41.0,203.0,20.0,N,,HDPK Dharmasena,RK Illingworth,2015
+980903,2016,Kolkata,2016-04-10,League,AD Russell,Eden Gardens,KKR,DC,KKR,field,KKR,wickets,9.0,99.0,20.0,N,,S Ravi,C Shamshuddin,2016
+980907,2016,Bangalore,2016-04-12,League,AB de Villiers,M Chinnaswamy Stadium,RCB,SRH,SRH,field,RCB,runs,45.0,228.0,20.0,N,,HDPK Dharmasena,VK Sharma,2016
+980909,2016,Kolkata,2016-04-13,League,RG Sharma,Eden Gardens,KKR,MI,MI,field,MI,wickets,6.0,188.0,20.0,N,,Nitin Menon,S Ravi,2016
+980913,2016,Delhi,2016-04-15,League,A Mishra,Feroz Shah Kotla,DC,PBKS,DC,field,DC,wickets,8.0,112.0,20.0,N,,S Ravi,C Shamshuddin,2016
+980915,2016,Hyderabad,2016-04-16,League,G Gambhir,Rajiv Gandhi International Stadium,SRH,KKR,SRH,bat,KKR,wickets,8.0,143.0,20.0,N,,AK Chaudhary,CK Nandan,2016
+980921,2016,Bangalore,2016-04-17,League,Q de Kock,M Chinnaswamy Stadium,RCB,DC,DC,field,DC,wickets,7.0,192.0,20.0,N,,VA Kulkarni,A Nand Kishore,2016
+980923,2016,Hyderabad,2016-04-18,League,DA Warner,Rajiv Gandhi International Stadium,SRH,MI,SRH,field,SRH,wickets,7.0,143.0,20.0,N,,HDPK Dharmasena,VK Sharma,2016
+980925,2016,Chandigarh,2016-04-19,League,RV Uthappa,Punjab Cricket Association Stadium,PBKS,KKR,KKR,field,KKR,wickets,6.0,139.0,20.0,N,,S Ravi,C Shamshuddin,2016
+980927,2016,Mumbai,2016-04-20,League,RG Sharma,Wankhede Stadium,MI,RCB,MI,field,MI,wickets,6.0,171.0,20.0,N,,AK Chaudhary,CK Nandan,2016
+980933,2016,Delhi,2016-04-23,League,SV Samson,Feroz Shah Kotla,DC,MI,MI,field,DC,runs,10.0,165.0,20.0,N,,S Ravi,C Shamshuddin,2016
+980935,2016,Hyderabad,2016-04-23,League,Mustafizur Rahman,Rajiv Gandhi International Stadium,SRH,PBKS,SRH,field,SRH,wickets,5.0,144.0,20.0,N,,AK Chaudhary,CK Nandan,2016
+980941,2016,Chandigarh,2016-04-25,League,PA Patel,Punjab Cricket Association Stadium,PBKS,MI,PBKS,field,MI,runs,25.0,190.0,20.0,N,,Nitin Menon,RJ Tucker,2016
+980947,2016,Mumbai,2016-04-28,League,RG Sharma,Wankhede Stadium,MI,KKR,MI,field,MI,wickets,6.0,175.0,20.0,N,,Nitin Menon,RJ Tucker,2016
+980951,2016,Delhi,2016-04-30,League,CR Brathwaite,Feroz Shah Kotla,DC,KKR,KKR,field,DC,runs,27.0,187.0,20.0,N,,KN Ananthapadmanabhan,M Erasmus,2016
+980953,2016,Hyderabad,2016-04-30,League,DA Warner,Rajiv Gandhi International Stadium,SRH,RCB,RCB,field,SRH,runs,15.0,195.0,20.0,N,,AK Chaudhary,HDPK Dharmasena,2016
+980959,2016,Bangalore,2016-05-02,League,AD Russell,M Chinnaswamy Stadium,RCB,KKR,KKR,field,KKR,wickets,5.0,186.0,20.0,N,,M Erasmus,S Ravi,2016
+980963,2016,Kolkata,2016-05-04,League,AD Russell,Eden Gardens,KKR,PBKS,PBKS,field,KKR,runs,7.0,165.0,20.0,N,,AK Chaudhary,HDPK Dharmasena,2016
+980971,2016,Chandigarh,2016-05-07,League,MP Stoinis,Punjab Cricket Association Stadium,PBKS,DC,DC,field,PBKS,runs,9.0,182.0,20.0,N,,HDPK Dharmasena,CK Nandan,2016
+980973,2016,Visakhapatnam,2016-05-08,League,A Nehra,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,MI,SRH,MI,field,SRH,runs,85.0,178.0,20.0,N,,S Ravi,C Shamshuddin,2016
+980977,2016,Chandigarh,2016-05-09,League,SR Watson,Punjab Cricket Association Stadium,PBKS,RCB,PBKS,field,RCB,runs,1.0,176.0,20.0,N,,AK Chaudhary,HDPK Dharmasena,2016
+980981,2016,Bangalore,2016-05-11,League,KH Pandya,M Chinnaswamy Stadium,RCB,MI,MI,field,MI,wickets,6.0,152.0,20.0,N,,AY Dandekar,C Shamshuddin,2016
+980983,2016,Hyderabad,2016-05-12,League,CH Morris,Rajiv Gandhi International Stadium,SRH,DC,DC,field,DC,wickets,7.0,147.0,20.0,N,,K Bharatan,M Erasmus,2016
+980985,2016,Visakhapatnam,2016-05-13,League,MP Stoinis,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,MI,PBKS,MI,bat,PBKS,wickets,7.0,125.0,20.0,N,,HDPK Dharmasena,CK Nandan,2016
+980993,2016,Visakhapatnam,2016-05-15,League,KH Pandya,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,MI,DC,DC,field,MI,runs,80.0,207.0,20.0,N,,Nitin Menon,CK Nandan,2016
+980991,2016,Chandigarh,2016-05-15,League,HM Amla,Punjab Cricket Association Stadium,PBKS,SRH,PBKS,bat,SRH,wickets,7.0,180.0,20.0,N,,KN Ananthapadmanabhan,M Erasmus,2016
+980995,2016,Kolkata,2016-05-16,League,V Kohli,Eden Gardens,KKR,RCB,RCB,field,RCB,wickets,9.0,184.0,20.0,N,,CB Gaffaney,A Nand Kishore,2016
+980999,2016,Bangalore,2016-05-18,League,V Kohli,M Chinnaswamy Stadium,RCB,PBKS,PBKS,field,RCB,runs,82.0,203.0,14.0,N,D/L,KN Ananthapadmanabhan,M Erasmus,2016
+981003,2016,Raipur,2016-05-20,League,KK Nair,Shaheed Veer Narayan Singh International Stadium,DC,SRH,DC,field,DC,wickets,6.0,159.0,20.0,N,,A Nand Kishore,BNJ Oxenford,2016
+981009,2016,Kolkata,2016-05-22,League,YK Pathan,Eden Gardens,KKR,SRH,SRH,field,KKR,runs,22.0,172.0,20.0,N,,KN Ananthapadmanabhan,M Erasmus,2016
+981011,2016,Raipur,2016-05-22,League,V Kohli,Shaheed Veer Narayan Singh International Stadium,DC,RCB,RCB,field,RCB,wickets,6.0,139.0,20.0,N,,A Nand Kishore,BNJ Oxenford,2016
+981015,2016,Delhi,2016-05-25,Elimination Final,MC Henriques,Feroz Shah Kotla,SRH,KKR,KKR,field,SRH,runs,22.0,163.0,20.0,N,,M Erasmus,C Shamshuddin,2016
+981019,2016,Bangalore,2016-05-29,Final,BCJ Cutting,M Chinnaswamy Stadium,RCB,SRH,SRH,bat,SRH,runs,8.0,209.0,20.0,N,,HDPK Dharmasena,BNJ Oxenford,2016
+1082591,2017,Hyderabad,2017-04-05,League,Yuvraj Singh,Rajiv Gandhi International Stadium,SRH,RCB,RCB,field,SRH,runs,35.0,208.0,20.0,N,,AY Dandekar,NJ Llong,2017
+1082595,2017,Bengaluru,2017-04-08,League,KM Jadhav,M Chinnaswamy Stadium,RCB,DC,RCB,bat,RCB,runs,15.0,158.0,20.0,N,,S Ravi,VK Sharma,2017
+1082597,2017,Mumbai,2017-04-09,League,N Rana,Wankhede Stadium,MI,KKR,MI,field,MI,wickets,4.0,179.0,20.0,N,,Nitin Menon,CK Nandan,2017
+1082598,2017,Indore,2017-04-10,League,AR Patel,Holkar Cricket Stadium,PBKS,RCB,RCB,bat,PBKS,wickets,8.0,149.0,20.0,N,,AK Chaudhary,C Shamshuddin,2017
+1082600,2017,Mumbai,2017-04-12,League,JJ Bumrah,Wankhede Stadium,MI,SRH,MI,field,MI,wickets,4.0,159.0,20.0,N,,Nitin Menon,CK Nandan,2017
+1082601,2017,Kolkata,2017-04-13,League,SP Narine,Eden Gardens,KKR,PBKS,KKR,field,KKR,wickets,8.0,171.0,20.0,N,,A Deshmukh,NJ Llong,2017
+1082602,2017,Bangalore,2017-04-14,League,KA Pollard,M Chinnaswamy Stadium,RCB,MI,MI,field,MI,wickets,4.0,143.0,20.0,N,,KN Ananthapadmanabhan,AK Chaudhary,2017
+1082604,2017,Kolkata,2017-04-15,League,RV Uthappa,Eden Gardens,KKR,SRH,SRH,field,KKR,runs,17.0,173.0,20.0,N,,AY Dandekar,NJ Llong,2017
+1082605,2017,Delhi,2017-04-15,League,CJ Anderson,Feroz Shah Kotla,DC,PBKS,DC,bat,DC,runs,51.0,189.0,20.0,N,,YC Barde,Nitin Menon,2017
+1082608,2017,Delhi,2017-04-17,League,NM Coulter-Nile,Feroz Shah Kotla,DC,KKR,DC,bat,KKR,wickets,4.0,169.0,20.0,N,,Nitin Menon,CK Nandan,2017
+1082609,2017,Hyderabad,2017-04-17,League,B Kumar,Rajiv Gandhi International Stadium,SRH,PBKS,PBKS,field,SRH,runs,5.0,160.0,20.0,N,,AY Dandekar,A Deshmukh,2017
+1082611,2017,Hyderabad,2017-04-19,League,KS Williamson,Rajiv Gandhi International Stadium,SRH,DC,SRH,bat,SRH,runs,15.0,192.0,20.0,N,,CB Gaffaney,NJ Llong,2017
+1082612,2017,Indore,2017-04-20,League,JC Buttler,Holkar Cricket Stadium,PBKS,MI,MI,field,MI,wickets,8.0,199.0,20.0,N,,M Erasmus,C Shamshuddin,2017
+1082614,2017,Mumbai,2017-04-22,League,MJ McClenaghan,Wankhede Stadium,MI,DC,DC,field,MI,runs,14.0,143.0,20.0,N,,A Nand Kishore,S Ravi,2017
+1082617,2017,Kolkata,2017-04-23,League,NM Coulter-Nile,Eden Gardens,KKR,RCB,RCB,field,KKR,runs,82.0,132.0,20.0,N,,CB Gaffaney,CK Nandan,2017
+1082622,2017,Kolkata,2017-04-28,League,G Gambhir,Eden Gardens,KKR,DC,KKR,field,KKR,wickets,7.0,161.0,20.0,N,,NJ Llong,S Ravi,2017
+1082623,2017,Chandigarh,2017-04-28,League,Rashid Khan,Punjab Cricket Association Stadium,PBKS,SRH,PBKS,field,SRH,runs,26.0,208.0,20.0,N,,Nitin Menon,CK Nandan,2017
+1082626,2017,Chandigarh,2017-04-30,League,Sandeep Sharma,Punjab Cricket Association Stadium,PBKS,DC,PBKS,field,PBKS,wickets,10.0,68.0,20.0,N,,YC Barde,CK Nandan,2017
+1082627,2017,Hyderabad,2017-04-30,League,DA Warner,Rajiv Gandhi International Stadium,SRH,KKR,KKR,field,SRH,runs,48.0,210.0,20.0,N,,AY Dandekar,S Ravi,2017
+1082628,2017,Mumbai,2017-05-01,League,RG Sharma,Wankhede Stadium,MI,RCB,RCB,bat,MI,wickets,5.0,163.0,20.0,N,,AK Chaudhary,CB Gaffaney,2017
+1082630,2017,Delhi,2017-05-02,League,Mohammed Shami,Feroz Shah Kotla,DC,SRH,DC,field,DC,wickets,6.0,186.0,20.0,N,,YC Barde,Nitin Menon,2017
+1082633,2017,Bangalore,2017-05-05,League,Sandeep Sharma,M Chinnaswamy Stadium,RCB,PBKS,RCB,field,PBKS,runs,19.0,139.0,20.0,N,,CB Gaffaney,C Shamshuddin,2017
+1082635,2017,Delhi,2017-05-06,League,LMP Simmons,Feroz Shah Kotla,DC,MI,DC,field,MI,runs,146.0,213.0,20.0,N,,Nitin Menon,CK Nandan,2017
+1082636,2017,Bangalore,2017-05-07,League,SP Narine,M Chinnaswamy Stadium,RCB,KKR,KKR,field,KKR,wickets,6.0,159.0,20.0,N,,AY Dandekar,C Shamshuddin,2017
+1082638,2017,Hyderabad,2017-05-08,League,S Dhawan,Rajiv Gandhi International Stadium,SRH,MI,MI,bat,SRH,wickets,7.0,139.0,20.0,N,,KN Ananthapadmanabhan,M Erasmus,2017
+1082639,2017,Chandigarh,2017-05-09,League,MM Sharma,Punjab Cricket Association Stadium,PBKS,KKR,KKR,field,PBKS,runs,14.0,168.0,20.0,N,,A Nand Kishore,S Ravi,2017
+1082641,2017,Mumbai,2017-05-11,League,WP Saha,Wankhede Stadium,MI,PBKS,MI,field,PBKS,runs,7.0,231.0,20.0,N,,A Deshmukh,A Nand Kishore,2017
+1082644,2017,Kolkata,2017-05-13,League,AT Rayudu,Eden Gardens,KKR,MI,KKR,field,MI,runs,9.0,174.0,20.0,N,,A Nand Kishore,S Ravi,2017
+1082646,2017,Delhi,2017-05-14,League,HV Patel,Feroz Shah Kotla,DC,RCB,RCB,bat,RCB,runs,10.0,162.0,20.0,N,,CK Nandan,C Shamshuddin,2017
+1082648,2017,Bangalore,2017-05-17,Eliminator,NM Coulter-Nile,M Chinnaswamy Stadium,SRH,KKR,KKR,field,KKR,wickets,7.0,48.0,6.0,N,D/L,AK Chaudhary,Nitin Menon,2017
+1082649,2017,Bangalore,2017-05-19,Qualifier 2,KV Sharma,M Chinnaswamy Stadium,MI,KKR,MI,field,MI,wickets,6.0,108.0,20.0,N,,NJ Llong,Nitin Menon,2017
+1136561,2018,Mumbai,2018-04-07,League,DJ Bravo,Wankhede Stadium,MI,CSK,CSK,field,CSK,wickets,1.0,166.0,20.0,N,,CB Gaffaney,A Nand Kishore,2018
+1136562,2018,Chandigarh,2018-04-08,League,KL Rahul,Punjab Cricket Association Stadium,DC,PBKS,PBKS,field,PBKS,wickets,6.0,167.0,20.0,N,,KN Ananthapadmanabhan,RJ Tucker,2018
+1136563,2018,Kolkata,2018-04-08,League,SP Narine,Eden Gardens,RCB,KKR,KKR,field,KKR,wickets,4.0,177.0,20.0,N,,A Deshmukh,C Shamshuddin,2018
+1136564,2018,Hyderabad,2018-04-09,League,S Dhawan,Rajiv Gandhi International Stadium,RR,SRH,SRH,field,SRH,wickets,9.0,126.0,20.0,N,,NJ Llong,VA Kulkarni,2018
+1136565,2018,Chennai,2018-04-10,League,SW Billings,MA Chidambaram Stadium,KKR,CSK,CSK,field,CSK,wickets,5.0,203.0,20.0,N,,AK Chaudhary,CB Gaffaney,2018
+1136566,2018,Jaipur,2018-04-11,League,SV Samson,Sawai Mansingh Stadium,RR,DC,DC,field,RR,runs,10.0,71.0,6.0,N,D/L,KN Ananthapadmanabhan,Nitin Menon,2018
+1136567,2018,Hyderabad,2018-04-12,League,Rashid Khan,Rajiv Gandhi International Stadium,MI,SRH,SRH,field,SRH,wickets,1.0,148.0,20.0,N,,CK Nandan,NJ Llong,2018
+1136568,2018,Bengaluru,2018-04-13,League,UT Yadav,M Chinnaswamy Stadium,PBKS,RCB,RCB,field,RCB,wickets,4.0,156.0,20.0,N,,A Deshmukh,S Ravi,2018
+1136569,2018,Mumbai,2018-04-14,League,JJ Roy,Wankhede Stadium,MI,DC,DC,field,DC,wickets,7.0,195.0,20.0,N,,KN Ananthapadmanabhan,Nitin Menon,2018
+1136570,2018,Kolkata,2018-04-14,League,B Stanlake,Eden Gardens,KKR,SRH,SRH,field,SRH,wickets,5.0,139.0,20.0,N,,AK Chaudhary,A Nand Kishore,2018
+1136571,2018,Bengaluru,2018-04-15,League,SV Samson,M Chinnaswamy Stadium,RR,RCB,RCB,field,RR,runs,19.0,218.0,20.0,N,,C Shamshuddin,S Ravi,2018
+1136572,2018,Chandigarh,2018-04-15,League,CH Gayle,Punjab Cricket Association Stadium,PBKS,CSK,CSK,field,PBKS,runs,4.0,198.0,20.0,N,,CK Nandan,VA Kulkarni,2018
+1136573,2018,Kolkata,2018-04-16,League,N Rana,Eden Gardens,KKR,DC,DC,field,KKR,runs,71.0,201.0,20.0,N,,AK Chaudhary,A Nand Kishore,2018
+1136574,2018,Mumbai,2018-04-17,League,RG Sharma,Wankhede Stadium,MI,RCB,RCB,field,MI,runs,46.0,214.0,20.0,N,,Nitin Menon,RJ Tucker,2018
+1136575,2018,Jaipur,2018-04-18,League,N Rana,Sawai Mansingh Stadium,RR,KKR,KKR,field,KKR,wickets,7.0,161.0,20.0,N,,A Deshmukh,S Ravi,2018
+1136576,2018,Chandigarh,2018-04-19,League,CH Gayle,Punjab Cricket Association Stadium,PBKS,SRH,PBKS,bat,PBKS,runs,15.0,194.0,20.0,N,,AK Chaudhary,NJ Llong,2018
+1136577,2018,Pune,2018-04-20,League,SR Watson,Maharashtra Cricket Association Stadium,CSK,RR,RR,field,CSK,runs,64.0,205.0,20.0,N,,KN Ananthapadmanabhan,Nitin Menon,2018
+1136578,2018,Kolkata,2018-04-21,League,KL Rahul,Eden Gardens,KKR,PBKS,PBKS,field,PBKS,wickets,9.0,125.0,13.0,N,D/L,A Deshmukh,C Shamshuddin,2018
+1136579,2018,Bengaluru,2018-04-21,League,AB de Villiers,M Chinnaswamy Stadium,DC,RCB,RCB,field,RCB,wickets,6.0,175.0,20.0,N,,CB Gaffaney,CK Nandan,2018
+1136580,2018,Hyderabad,2018-04-22,League,AT Rayudu,Rajiv Gandhi International Stadium,CSK,SRH,SRH,field,CSK,runs,4.0,183.0,20.0,N,,AK Chaudhary,VA Kulkarni,2018
+1136581,2018,Jaipur,2018-04-22,League,JC Archer,Sawai Mansingh Stadium,MI,RR,MI,bat,RR,wickets,3.0,168.0,20.0,N,,KN Ananthapadmanabhan,RJ Tucker,2018
+1136582,2018,Delhi,2018-04-23,League,AS Rajpoot,Arun Jaitley Stadium,PBKS,DC,DC,field,PBKS,runs,4.0,144.0,20.0,N,,A Nand Kishore,CK Nandan,2018
+1136583,2018,Mumbai,2018-04-24,League,Rashid Khan,Wankhede Stadium,SRH,MI,MI,field,SRH,runs,31.0,119.0,20.0,N,,C Shamshuddin,S Ravi,2018
+1136584,2018,Bengaluru,2018-04-25,League,MS Dhoni,M Chinnaswamy Stadium,RCB,CSK,CSK,field,CSK,wickets,5.0,206.0,20.0,N,,NJ Llong,VK Sharma,2018
+1136585,2018,Hyderabad,2018-04-26,League,AS Rajpoot,Rajiv Gandhi International Stadium,SRH,PBKS,PBKS,field,SRH,runs,13.0,133.0,20.0,N,,CK Nandan,YC Barde,2018
+1136586,2018,Delhi,2018-04-27,League,SS Iyer,Arun Jaitley Stadium,DC,KKR,KKR,field,DC,runs,55.0,220.0,20.0,N,,C Shamshuddin,S Ravi,2018
+1136587,2018,Pune,2018-04-28,League,RG Sharma,Maharashtra Cricket Association Stadium,CSK,MI,MI,field,MI,wickets,8.0,170.0,20.0,N,,CB Gaffaney,Nitin Menon,2018
+1136588,2018,Jaipur,2018-04-29,League,KS Williamson,Sawai Mansingh Stadium,SRH,RR,SRH,bat,SRH,runs,11.0,152.0,20.0,N,,BNJ Oxenford,A Nand Kishore,2018
+1136589,2018,Bengaluru,2018-04-29,League,CA Lynn,M Chinnaswamy Stadium,RCB,KKR,KKR,field,KKR,wickets,6.0,176.0,20.0,N,,AK Chaudhary,NJ Llong,2018
+1136590,2018,Pune,2018-04-30,League,SR Watson,Maharashtra Cricket Association Stadium,CSK,DC,DC,field,CSK,runs,13.0,212.0,20.0,N,,AY Dandekar,C Shamshuddin,2018
+1136591,2018,Bengaluru,2018-05-01,League,TG Southee,M Chinnaswamy Stadium,RCB,MI,MI,field,RCB,runs,14.0,168.0,20.0,N,,M Erasmus,Nitin Menon,2018
+1136592,2018,Delhi,2018-05-02,League,RR Pant,Arun Jaitley Stadium,DC,RR,RR,field,DC,runs,4.0,151.0,12.0,N,D/L,CK Nandan,VK Sharma,2018
+1136593,2018,Kolkata,2018-05-03,League,SP Narine,Eden Gardens,CSK,KKR,KKR,field,KKR,wickets,6.0,178.0,20.0,N,,A Deshmukh,HDPK Dharmasena,2018
+1136594,2018,Indore,2018-05-04,League,SA Yadav,Holkar Cricket Stadium,PBKS,MI,MI,field,MI,wickets,6.0,175.0,20.0,N,,AY Dandekar,S Ravi,2018
+1136595,2018,Pune,2018-05-05,League,RA Jadeja,Maharashtra Cricket Association Stadium,RCB,CSK,CSK,field,CSK,wickets,6.0,128.0,20.0,N,,Nitin Menon,YC Barde,2018
+1136596,2018,Hyderabad,2018-05-05,League,Rashid Khan,Rajiv Gandhi International Stadium,DC,SRH,DC,bat,SRH,wickets,7.0,164.0,20.0,N,,BNJ Oxenford,CK Nandan,2018
+1136597,2018,Mumbai,2018-05-06,League,HH Pandya,Wankhede Stadium,MI,KKR,KKR,field,MI,runs,13.0,182.0,20.0,N,,A Deshmukh,HDPK Dharmasena,2018
+1136598,2018,Indore,2018-05-06,League,Mujeeb Ur Rahman,Holkar Cricket Stadium,RR,PBKS,PBKS,field,PBKS,wickets,6.0,153.0,20.0,N,,C Shamshuddin,S Ravi,2018
+1136599,2018,Hyderabad,2018-05-07,League,KS Williamson,Rajiv Gandhi International Stadium,SRH,RCB,RCB,field,SRH,runs,5.0,147.0,20.0,N,,BNJ Oxenford,VK Sharma,2018
+1136600,2018,Jaipur,2018-05-08,League,JC Buttler,Sawai Mansingh Stadium,RR,PBKS,RR,bat,RR,runs,15.0,159.0,20.0,N,,M Erasmus,Nitin Menon,2018
+1136601,2018,Kolkata,2018-05-09,League,Ishan Kishan,Eden Gardens,MI,KKR,KKR,field,MI,runs,102.0,211.0,20.0,N,,KN Ananthapadmanabhan,AK Chaudhary,2018
+1136602,2018,Delhi,2018-05-10,League,S Dhawan,Arun Jaitley Stadium,DC,SRH,DC,bat,SRH,wickets,9.0,188.0,20.0,N,,AY Dandekar,C Shamshuddin,2018
+1136603,2018,Jaipur,2018-05-11,League,JC Buttler,Sawai Mansingh Stadium,CSK,RR,CSK,bat,RR,wickets,4.0,177.0,20.0,N,,M Erasmus,YC Barde,2018
+1136604,2018,Indore,2018-05-12,League,SP Narine,Holkar Cricket Stadium,KKR,PBKS,PBKS,field,KKR,runs,31.0,246.0,20.0,N,,CK Nandan,VK Sharma,2018
+1136605,2018,Delhi,2018-05-12,League,AB de Villiers,Arun Jaitley Stadium,DC,RCB,RCB,field,RCB,wickets,5.0,182.0,20.0,N,,KN Ananthapadmanabhan,HDPK Dharmasena,2018
+1136606,2018,Pune,2018-05-13,League,AT Rayudu,Maharashtra Cricket Association Stadium,SRH,CSK,CSK,field,CSK,wickets,8.0,180.0,20.0,N,,M Erasmus,YC Barde,2018
+1136607,2018,Mumbai,2018-05-13,League,JC Buttler,Wankhede Stadium,MI,RR,RR,field,RR,wickets,7.0,169.0,20.0,N,,Nitin Menon,S Ravi,2018
+1136608,2018,Indore,2018-05-14,League,UT Yadav,Holkar Cricket Stadium,PBKS,RCB,RCB,field,RCB,wickets,10.0,89.0,20.0,N,,BNJ Oxenford,VK Sharma,2018
+1136609,2018,Kolkata,2018-05-15,League,Kuldeep Yadav,Eden Gardens,RR,KKR,KKR,field,KKR,wickets,6.0,143.0,20.0,N,,AK Chaudhary,HDPK Dharmasena,2018
+1136610,2018,Mumbai,2018-05-16,League,JJ Bumrah,Wankhede Stadium,MI,PBKS,PBKS,field,MI,runs,3.0,187.0,20.0,N,,M Erasmus,Nitin Menon,2018
+1136611,2018,Bengaluru,2018-05-17,League,AB de Villiers,M Chinnaswamy Stadium,RCB,SRH,SRH,field,RCB,runs,14.0,219.0,20.0,N,,AY Dandekar,S Ravi,2018
+1136612,2018,Delhi,2018-05-18,League,HV Patel,Arun Jaitley Stadium,DC,CSK,CSK,field,DC,runs,34.0,163.0,20.0,N,,HDPK Dharmasena,VA Kulkarni,2018
+1136613,2018,Jaipur,2018-05-19,League,S Gopal,Sawai Mansingh Stadium,RR,RCB,RR,bat,RR,runs,30.0,165.0,20.0,N,,BNJ Oxenford,VK Sharma,2018
+1136614,2018,Hyderabad,2018-05-19,League,CA Lynn,Rajiv Gandhi International Stadium,SRH,KKR,SRH,bat,KKR,wickets,5.0,173.0,20.0,N,,AK Chaudhary,S Ravi,2018
+1136615,2018,Delhi,2018-05-20,League,A Mishra,Arun Jaitley Stadium,DC,MI,DC,bat,DC,runs,11.0,175.0,20.0,N,,HDPK Dharmasena,CK Nandan,2018
+1136616,2018,Pune,2018-05-20,League,L Ngidi,Maharashtra Cricket Association Stadium,PBKS,CSK,CSK,field,CSK,wickets,5.0,154.0,20.0,N,,Nitin Menon,YC Barde,2018
+1136617,2018,Mumbai,2018-05-22,Qualifier 1,F du Plessis,Wankhede Stadium,SRH,CSK,CSK,field,CSK,wickets,2.0,140.0,20.0,N,,C Shamshuddin,M Erasmus,2018
+1136618,2018,Kolkata,2018-05-23,Eliminator,AD Russell,Eden Gardens,KKR,RR,RR,field,KKR,runs,25.0,170.0,20.0,N,,AK Chaudhary,Nitin Menon,2018
+1136619,2018,Kolkata,2018-05-25,Qualifier 2,Rashid Khan,Eden Gardens,SRH,KKR,KKR,field,SRH,runs,14.0,175.0,20.0,N,,HDPK Dharmasena,Nitin Menon,2018
+1136620,2018,Mumbai,2018-05-27,Final,SR Watson,Wankhede Stadium,SRH,CSK,CSK,field,CSK,wickets,8.0,179.0,20.0,N,,M Erasmus,S Ravi,2018
+1175356,2019,Chennai,2019-03-23,League,Harbhajan Singh,MA Chidambaram Stadium,RCB,CSK,CSK,field,CSK,wickets,7.0,71.0,20.0,N,,AY Dandekar,BNJ Oxenford,2019
+1175357,2019,Kolkata,2019-03-24,League,AD Russell,Eden Gardens,SRH,KKR,KKR,field,KKR,wickets,6.0,182.0,20.0,N,,AK Chaudhary,CB Gaffaney,2019
+1175358,2019,Mumbai,2019-03-24,League,RR Pant,Wankhede Stadium,DC,MI,MI,field,DC,runs,37.0,214.0,20.0,N,,S Ravi,YC Barde,2019
+1175359,2019,Jaipur,2019-03-25,League,CH Gayle,Sawai Mansingh Stadium,PBKS,RR,RR,field,PBKS,runs,14.0,185.0,20.0,N,,C Shamshuddin,KN Ananthapadmanabhan,2019
+1175360,2019,Delhi,2019-03-26,League,SR Watson,Arun Jaitley Stadium,DC,CSK,DC,bat,CSK,wickets,6.0,148.0,20.0,N,,M Erasmus,Nitin Menon,2019
+1175361,2019,Kolkata,2019-03-27,League,AD Russell,Eden Gardens,KKR,PBKS,PBKS,field,KKR,runs,28.0,219.0,20.0,N,,AK Chaudhary,VA Kulkarni,2019
+1175362,2019,Bengaluru,2019-03-28,League,JJ Bumrah,M Chinnaswamy Stadium,MI,RCB,RCB,field,MI,runs,6.0,188.0,20.0,N,,CK Nandan,S Ravi,2019
+1175363,2019,Hyderabad,2019-03-29,League,Rashid Khan,Rajiv Gandhi International Stadium,RR,SRH,RR,bat,SRH,wickets,5.0,199.0,20.0,N,,BNJ Oxenford,C Shamshuddin,2019
+1175364,2019,Chandigarh,2019-03-30,League,MA Agarwal,Punjab Cricket Association Stadium,MI,PBKS,PBKS,field,PBKS,wickets,8.0,177.0,20.0,N,,CB Gaffaney,VA Kulkarni,2019
+1175365,2019,Delhi,2019-03-30,League,PP Shaw,Arun Jaitley Stadium,KKR,DC,DC,field,DC,tie,,186.0,20.0,Y,,AY Dandekar,Nitin Menon,2019
+1175366,2019,Hyderabad,2019-03-31,League,JM Bairstow,Rajiv Gandhi International Stadium,SRH,RCB,RCB,field,SRH,runs,118.0,232.0,20.0,N,,KN Ananthapadmanabhan,S Ravi,2019
+1175367,2019,Chennai,2019-03-31,League,MS Dhoni,MA Chidambaram Stadium,CSK,RR,RR,field,CSK,runs,8.0,176.0,20.0,N,,CK Nandan,YC Barde,2019
+1175368,2019,Chandigarh,2019-04-01,League,SM Curran,Punjab Cricket Association Stadium,PBKS,DC,DC,field,PBKS,runs,14.0,167.0,20.0,N,,AK Chaudhary,CB Gaffaney,2019
+1175369,2019,Jaipur,2019-04-02,League,S Gopal,Sawai Mansingh Stadium,RCB,RR,RR,field,RR,wickets,7.0,159.0,20.0,N,,AY Dandekar,M Erasmus,2019
+1175370,2019,Mumbai,2019-04-03,League,HH Pandya,Wankhede Stadium,MI,CSK,CSK,field,MI,runs,37.0,171.0,20.0,N,,BNJ Oxenford,RJ Tucker,2019
+1175371,2019,Delhi,2019-04-04,League,JM Bairstow,Arun Jaitley Stadium,DC,SRH,SRH,field,SRH,wickets,5.0,130.0,20.0,N,,C Shamshuddin,KN Ananthapadmanabhan,2019
+1175372,2019,Bengaluru,2019-04-05,League,AD Russell,M Chinnaswamy Stadium,RCB,KKR,KKR,field,KKR,wickets,5.0,206.0,20.0,N,,AK Chaudhary,CB Gaffaney,2019
+1178393,2019,Chennai,2019-04-06,League,Harbhajan Singh,MA Chidambaram Stadium,CSK,PBKS,CSK,bat,CSK,runs,22.0,161.0,20.0,N,,KN Ananthapadmanabhan,RJ Tucker,2019
+1178394,2019,Hyderabad,2019-04-06,League,AS Joseph,Rajiv Gandhi International Stadium,MI,SRH,SRH,field,MI,runs,40.0,137.0,20.0,N,,AY Dandekar,Nitin Menon,2019
+1178395,2019,Bengaluru,2019-04-07,League,K Rabada,M Chinnaswamy Stadium,RCB,DC,DC,field,DC,wickets,4.0,150.0,20.0,N,,S Ravi,YC Barde,2019
+1178396,2019,Jaipur,2019-04-07,League,HF Gurney,Sawai Mansingh Stadium,RR,KKR,KKR,field,KKR,wickets,8.0,140.0,20.0,N,,AK Chaudhary,CB Gaffaney,2019
+1178397,2019,Chandigarh,2019-04-08,League,KL Rahul,Punjab Cricket Association Stadium,SRH,PBKS,PBKS,field,PBKS,wickets,6.0,151.0,20.0,N,,AY Dandekar,M Erasmus,2019
+1178398,2019,Chennai,2019-04-09,League,DL Chahar,MA Chidambaram Stadium,KKR,CSK,CSK,field,CSK,wickets,7.0,109.0,20.0,N,,C Shamshuddin,RJ Tucker,2019
+1178399,2019,Mumbai,2019-04-10,League,KA Pollard,Wankhede Stadium,PBKS,MI,MI,field,MI,wickets,3.0,198.0,20.0,N,,S Ravi,YC Barde,2019
+1178400,2019,Jaipur,2019-04-11,League,MS Dhoni,Sawai Mansingh Stadium,RR,CSK,CSK,field,CSK,wickets,4.0,152.0,20.0,N,,BNJ Oxenford,UV Gandhe,2019
+1178401,2019,Kolkata,2019-04-12,League,S Dhawan,Eden Gardens,KKR,DC,DC,field,DC,wickets,7.0,179.0,20.0,N,,CK Nandan,YC Barde,2019
+1178402,2019,Mumbai,2019-04-13,League,JC Buttler,Wankhede Stadium,MI,RR,RR,field,RR,wickets,4.0,188.0,20.0,N,,A Nand Kishore,Nitin Menon,2019
+1178403,2019,Chandigarh,2019-04-13,League,AB de Villiers,Punjab Cricket Association Stadium,PBKS,RCB,RCB,field,RCB,wickets,8.0,174.0,20.0,N,,S Ravi,UV Gandhe,2019
+1178404,2019,Kolkata,2019-04-14,League,Imran Tahir,Eden Gardens,KKR,CSK,CSK,field,CSK,wickets,5.0,162.0,20.0,N,,CK Nandan,RJ Tucker,2019
+1178405,2019,Hyderabad,2019-04-14,League,KMA Paul,Rajiv Gandhi International Stadium,DC,SRH,SRH,field,DC,runs,39.0,156.0,20.0,N,,AK Chaudhary,BNJ Oxenford,2019
+1178406,2019,Mumbai,2019-04-15,League,SL Malinga,Wankhede Stadium,RCB,MI,MI,field,MI,wickets,5.0,172.0,20.0,N,,M Erasmus,Nitin Menon,2019
+1178407,2019,Chandigarh,2019-04-16,League,R Ashwin,Punjab Cricket Association Stadium,PBKS,RR,RR,field,PBKS,runs,12.0,183.0,20.0,N,,AK Chaudhary,VA Kulkarni,2019
+1178408,2019,Hyderabad,2019-04-17,League,DA Warner,Rajiv Gandhi International Stadium,CSK,SRH,CSK,bat,SRH,wickets,6.0,133.0,20.0,N,,IJ Gould,UV Gandhe,2019
+1178409,2019,Delhi,2019-04-18,League,HH Pandya,Arun Jaitley Stadium,MI,DC,MI,bat,MI,runs,40.0,169.0,20.0,N,,BNJ Oxenford,NJ Llong,2019
+1178410,2019,Kolkata,2019-04-19,League,V Kohli,Eden Gardens,RCB,KKR,KKR,field,RCB,runs,10.0,214.0,20.0,N,,IJ Gould,Nitin Menon,2019
+1178411,2019,Jaipur,2019-04-20,League,SPD Smith,Sawai Mansingh Stadium,MI,RR,RR,field,RR,wickets,5.0,162.0,20.0,N,,S Ravi,YC Barde,2019
+1178412,2019,Delhi,2019-04-20,League,SS Iyer,Arun Jaitley Stadium,PBKS,DC,DC,field,DC,wickets,5.0,164.0,20.0,N,,C Shamshuddin,UV Gandhe,2019
+1178413,2019,Hyderabad,2019-04-21,League,KK Ahmed,Rajiv Gandhi International Stadium,KKR,SRH,SRH,field,SRH,wickets,9.0,160.0,20.0,N,,NJ Llong,Nitin Menon,2019
+1178414,2019,Bengaluru,2019-04-21,League,PA Patel,M Chinnaswamy Stadium,RCB,CSK,CSK,field,RCB,runs,1.0,162.0,20.0,N,,RJ Tucker,VA Kulkarni,2019
+1178415,2019,Jaipur,2019-04-22,League,RR Pant,Sawai Mansingh Stadium,RR,DC,DC,field,DC,wickets,6.0,192.0,20.0,N,,A Nand Kishore,S Ravi,2019
+1178416,2019,Chennai,2019-04-23,League,SR Watson,MA Chidambaram Stadium,SRH,CSK,CSK,field,CSK,wickets,6.0,176.0,20.0,N,,AK Chaudhary,NJ Llong,2019
+1178417,2019,Bengaluru,2019-04-24,League,AB de Villiers,M Chinnaswamy Stadium,RCB,PBKS,PBKS,field,RCB,runs,17.0,203.0,20.0,N,,BNJ Oxenford,C Shamshuddin,2019
+1178418,2019,Kolkata,2019-04-25,League,VR Aaron,Eden Gardens,KKR,RR,RR,field,RR,wickets,3.0,176.0,20.0,N,,AY Dandekar,IJ Gould,2019
+1178419,2019,Chennai,2019-04-26,League,RG Sharma,MA Chidambaram Stadium,MI,CSK,CSK,field,MI,runs,46.0,156.0,20.0,N,,AK Chaudhary,NJ Llong,2019
+1178420,2019,Jaipur,2019-04-27,League,JD Unadkat,Sawai Mansingh Stadium,SRH,RR,RR,field,RR,wickets,7.0,161.0,20.0,N,,A Nand Kishore,YC Barde,2019
+1178421,2019,Delhi,2019-04-28,League,S Dhawan,Arun Jaitley Stadium,DC,RCB,DC,bat,DC,runs,16.0,188.0,20.0,N,,BNJ Oxenford,KN Ananthapadmanabhan,2019
+1178422,2019,Kolkata,2019-04-28,League,AD Russell,Eden Gardens,KKR,MI,MI,field,KKR,runs,34.0,233.0,20.0,N,,IJ Gould,Nitin Menon,2019
+1178423,2019,Hyderabad,2019-04-29,League,DA Warner,Rajiv Gandhi International Stadium,SRH,PBKS,PBKS,field,SRH,runs,45.0,213.0,20.0,N,,CK Nandan,S Ravi,2019
+1178424,2019,Bengaluru,2019-04-30,League,,M Chinnaswamy Stadium,RCB,RR,RR,field,,no result,,63.0,5.0,N,,NJ Llong,UV Gandhe,2019
+1178425,2019,Chennai,2019-05-01,League,MS Dhoni,MA Chidambaram Stadium,CSK,DC,DC,field,CSK,runs,80.0,180.0,20.0,N,,AY Dandekar,Nitin Menon,2019
+1178426,2019,Mumbai,2019-05-02,League,JJ Bumrah,Wankhede Stadium,MI,SRH,MI,bat,MI,tie,,163.0,20.0,Y,,CK Nandan,S Ravi,2019
+1178427,2019,Chandigarh,2019-05-03,League,Shubman Gill,Punjab Cricket Association Stadium,PBKS,KKR,KKR,field,KKR,wickets,7.0,184.0,20.0,N,,BNJ Oxenford,C Shamshuddin,2019
+1178428,2019,Delhi,2019-05-04,League,A Mishra,Arun Jaitley Stadium,RR,DC,RR,bat,DC,wickets,5.0,116.0,20.0,N,,AY Dandekar,IJ Gould,2019
+1178429,2019,Bengaluru,2019-05-04,League,SO Hetmyer,M Chinnaswamy Stadium,SRH,RCB,RCB,field,RCB,wickets,4.0,176.0,20.0,N,,AK Chaudhary,NJ Llong,2019
+1178430,2019,Chandigarh,2019-05-05,League,KL Rahul,Punjab Cricket Association Stadium,CSK,PBKS,PBKS,field,PBKS,wickets,6.0,171.0,20.0,N,,C Shamshuddin,KN Ananthapadmanabhan,2019
+1178431,2019,Mumbai,2019-05-05,League,HH Pandya,Wankhede Stadium,KKR,MI,MI,field,MI,wickets,9.0,134.0,20.0,N,,A Nand Kishore,CK Nandan,2019
+1181764,2019,Chennai,2019-05-07,Qualifier 1,SA Yadav,MA Chidambaram Stadium,CSK,MI,CSK,bat,MI,wickets,6.0,132.0,20.0,N,,NJ Llong,Nitin Menon,2019
+1181766,2019,Visakhapatnam,2019-05-08,Eliminator,RR Pant,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,SRH,DC,DC,field,DC,wickets,2.0,163.0,20.0,N,,BNJ Oxenford,S Ravi,2019
+1181767,2019,Visakhapatnam,2019-05-10,Qualifier 2,F du Plessis,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,DC,CSK,CSK,field,CSK,wickets,6.0,148.0,20.0,N,,BNJ Oxenford,S Ravi,2019
+1181768,2019,Hyderabad,2019-05-12,Final,JJ Bumrah,Rajiv Gandhi International Stadium,MI,CSK,MI,bat,MI,runs,1.0,150.0,20.0,N,,IJ Gould,Nitin Menon,2019
+1216492,2020/21,Abu Dhabi,2020-09-19,League,AT Rayudu,Sheikh Zayed Stadium,MI,CSK,CSK,field,CSK,wickets,5.0,163.0,20.0,N,,CB Gaffaney,VK Sharma,2020
+1216493,2020/21,,2020-09-20,League,MP Stoinis,Dubai International Cricket Stadium,DC,PBKS,PBKS,field,DC,tie,,158.0,20.0,Y,,AK Chaudhary,Nitin Menon,2020
+1216534,2020/21,,2020-09-21,League,YS Chahal,Dubai International Cricket Stadium,RCB,SRH,SRH,field,RCB,runs,10.0,164.0,20.0,N,,AY Dandekar,Nitin Menon,2020
+1216496,2020/21,,2020-09-22,League,SV Samson,Sharjah Cricket Stadium,RR,CSK,CSK,field,RR,runs,16.0,217.0,20.0,N,,C Shamshuddin,VA Kulkarni,2020
+1216508,2020/21,Abu Dhabi,2020-09-23,League,RG Sharma,Sheikh Zayed Stadium,MI,KKR,KKR,field,MI,runs,49.0,196.0,20.0,N,,CB Gaffaney,S Ravi,2020
+1216510,2020/21,,2020-09-24,League,KL Rahul,Dubai International Cricket Stadium,PBKS,RCB,RCB,field,PBKS,runs,97.0,207.0,20.0,N,,AK Chaudhary,PR Reiffel,2020
+1216539,2020/21,,2020-09-25,League,PP Shaw,Dubai International Cricket Stadium,DC,CSK,CSK,field,DC,runs,44.0,176.0,20.0,N,,KN Ananthapadmanabhan,RK Illingworth,2020
+1216545,2020/21,Abu Dhabi,2020-09-26,League,Shubman Gill,Sheikh Zayed Stadium,SRH,KKR,SRH,bat,KKR,wickets,7.0,143.0,20.0,N,,CB Gaffaney,VK Sharma,2020
+1216527,2020/21,,2020-09-27,League,SV Samson,Sharjah Cricket Stadium,PBKS,RR,RR,field,RR,wickets,4.0,224.0,20.0,N,,RK Illingworth,K Srinivasan,2020
+1216547,2020/21,,2020-09-28,League,AB de Villiers,Dubai International Cricket Stadium,RCB,MI,MI,field,RCB,tie,,202.0,20.0,Y,,Nitin Menon,PR Reiffel,2020
+1216532,2020/21,Abu Dhabi,2020-09-29,League,Rashid Khan,Sheikh Zayed Stadium,SRH,DC,DC,field,SRH,runs,15.0,163.0,20.0,N,,VK Sharma,S Ravi,2020
+1216504,2020/21,,2020-09-30,League,Shivam Mavi,Dubai International Cricket Stadium,KKR,RR,RR,field,KKR,runs,37.0,175.0,20.0,N,,KN Ananthapadmanabhan,C Shamshuddin,2020
+1216503,2020/21,Abu Dhabi,2020-10-01,League,KA Pollard,Sheikh Zayed Stadium,MI,PBKS,PBKS,field,MI,runs,48.0,192.0,20.0,N,,VK Sharma,S Ravi,2020
+1216516,2020/21,,2020-10-02,League,PK Garg,Dubai International Cricket Stadium,SRH,CSK,SRH,bat,SRH,runs,7.0,165.0,20.0,N,,AK Chaudhary,PR Reiffel,2020
+1216514,2020/21,Abu Dhabi,2020-10-03,League,YS Chahal,Sheikh Zayed Stadium,RR,RCB,RR,bat,RCB,wickets,8.0,155.0,20.0,N,,CB Gaffaney,S Ravi,2020
+1216515,2020/21,,2020-10-03,League,SS Iyer,Sharjah Cricket Stadium,DC,KKR,KKR,field,DC,runs,18.0,229.0,20.0,N,,VA Kulkarni,RK Illingworth,2020
+1216513,2020/21,,2020-10-04,League,SR Watson,Dubai International Cricket Stadium,PBKS,CSK,PBKS,bat,CSK,wickets,10.0,179.0,20.0,N,,AY Dandekar,Nitin Menon,2020
+1216538,2020/21,,2020-10-04,League,TA Boult,Sharjah Cricket Stadium,MI,SRH,MI,bat,MI,runs,34.0,209.0,20.0,N,,KN Ananthapadmanabhan,RK Illingworth,2020
+1216519,2020/21,,2020-10-05,League,AR Patel,Dubai International Cricket Stadium,DC,RCB,RCB,field,DC,runs,59.0,197.0,20.0,N,,Nitin Menon,YC Barde,2020
+1216511,2020/21,Abu Dhabi,2020-10-06,League,SA Yadav,Sheikh Zayed Stadium,MI,RR,MI,bat,MI,runs,57.0,194.0,20.0,N,,VK Sharma,S Ravi,2020
+1216501,2020/21,Abu Dhabi,2020-10-07,League,RA Tripathi,Sheikh Zayed Stadium,KKR,CSK,KKR,bat,KKR,runs,10.0,168.0,20.0,N,,KN Ananthapadmanabhan,RK Illingworth,2020
+1216542,2020/21,,2020-10-08,League,JM Bairstow,Dubai International Cricket Stadium,SRH,PBKS,SRH,bat,SRH,runs,69.0,202.0,20.0,N,,AK Chaudhary,Nitin Menon,2020
+1216500,2020/21,,2020-10-09,League,R Ashwin,Sharjah Cricket Stadium,DC,RR,RR,field,DC,runs,46.0,185.0,20.0,N,,KN Ananthapadmanabhan,C Shamshuddin,2020
+1216523,2020/21,Abu Dhabi,2020-10-10,League,KD Karthik,Sheikh Zayed Stadium,KKR,PBKS,KKR,bat,KKR,runs,2.0,165.0,20.0,N,,UV Gandhe,CB Gaffaney,2020
+1216525,2020/21,,2020-10-10,League,V Kohli,Dubai International Cricket Stadium,RCB,CSK,RCB,bat,RCB,runs,37.0,170.0,20.0,N,,AK Chaudhary,PR Reiffel,2020
+1216507,2020/21,,2020-10-11,League,R Tewatia,Dubai International Cricket Stadium,SRH,RR,SRH,bat,RR,wickets,5.0,159.0,20.0,N,,YC Barde,PR Reiffel,2020
+1216529,2020/21,Abu Dhabi,2020-10-11,League,Q de Kock,Sheikh Zayed Stadium,DC,MI,DC,bat,MI,wickets,5.0,163.0,20.0,N,,CB Gaffaney,S Ravi,2020
+1216540,2020/21,,2020-10-12,League,AB de Villiers,Sharjah Cricket Stadium,RCB,KKR,RCB,bat,RCB,runs,82.0,195.0,20.0,N,,RK Illingworth,K Srinivasan,2020
+1216528,2020/21,,2020-10-13,League,RA Jadeja,Dubai International Cricket Stadium,CSK,SRH,CSK,bat,CSK,runs,20.0,168.0,20.0,N,,AK Chaudhary,PR Reiffel,2020
+1216543,2020/21,,2020-10-14,League,A Nortje,Dubai International Cricket Stadium,DC,RR,DC,bat,DC,runs,13.0,162.0,20.0,N,,AK Chaudhary,Nitin Menon,2020
+1216531,2020/21,,2020-10-15,League,KL Rahul,Sharjah Cricket Stadium,RCB,PBKS,RCB,bat,PBKS,wickets,8.0,172.0,20.0,N,,KN Ananthapadmanabhan,C Shamshuddin,2020
+1216526,2020/21,Abu Dhabi,2020-10-16,League,Q de Kock,Sheikh Zayed Stadium,KKR,MI,KKR,bat,MI,wickets,8.0,149.0,20.0,N,,CB Gaffaney,VK Sharma,2020
+1216509,2020/21,,2020-10-17,League,S Dhawan,Sharjah Cricket Stadium,CSK,DC,CSK,bat,DC,wickets,5.0,180.0,20.0,N,,KN Ananthapadmanabhan,RK Illingworth,2020
+1216522,2020/21,,2020-10-17,League,AB de Villiers,Dubai International Cricket Stadium,RR,RCB,RR,bat,RCB,wickets,7.0,178.0,20.0,N,,AK Chaudhary,Nitin Menon,2020
+1216512,2020/21,Abu Dhabi,2020-10-18,League,LH Ferguson,Sheikh Zayed Stadium,KKR,SRH,SRH,field,KKR,tie,,164.0,20.0,Y,,PG Pathak,S Ravi,2020
+1216517,2020/21,,2020-10-18,League,KL Rahul,Dubai International Cricket Stadium,MI,PBKS,MI,bat,PBKS,tie,,177.0,20.0,Y,,Nitin Menon,PR Reiffel,2020
+1216533,2020/21,Abu Dhabi,2020-10-19,League,JC Buttler,Sheikh Zayed Stadium,CSK,RR,CSK,bat,RR,wickets,7.0,126.0,20.0,N,,CB Gaffaney,VK Sharma,2020
+1216546,2020/21,,2020-10-20,League,S Dhawan,Dubai International Cricket Stadium,DC,PBKS,DC,bat,PBKS,wickets,5.0,165.0,20.0,N,,C Shamshuddin,RK Illingworth,2020
+1216494,2020/21,Abu Dhabi,2020-10-21,League,Mohammed Siraj,Sheikh Zayed Stadium,KKR,RCB,KKR,bat,RCB,wickets,8.0,85.0,20.0,N,,VK Sharma,S Ravi,2020
+1216518,2020/21,,2020-10-22,League,MK Pandey,Dubai International Cricket Stadium,RR,SRH,SRH,field,SRH,wickets,8.0,155.0,20.0,N,,Nitin Menon,PR Reiffel,2020
+1216521,2020/21,,2020-10-23,League,TA Boult,Sharjah Cricket Stadium,CSK,MI,MI,field,MI,wickets,10.0,115.0,20.0,N,,C Shamshuddin,VA Kulkarni,2020
+1216497,2020/21,Abu Dhabi,2020-10-24,League,CV Varun,Sheikh Zayed Stadium,KKR,DC,DC,field,KKR,runs,59.0,195.0,20.0,N,,CB Gaffaney,PG Pathak,2020
+1216498,2020/21,,2020-10-24,League,CJ Jordan,Dubai International Cricket Stadium,PBKS,SRH,SRH,field,PBKS,runs,12.0,127.0,20.0,N,,AY Dandekar,PR Reiffel,2020
+1216541,2020/21,Abu Dhabi,2020-10-25,League,BA Stokes,Sheikh Zayed Stadium,MI,RR,MI,bat,RR,wickets,8.0,196.0,20.0,N,,UV Gandhe,VK Sharma,2020
+1216544,2020/21,,2020-10-25,League,RD Gaikwad,Dubai International Cricket Stadium,RCB,CSK,RCB,bat,CSK,wickets,8.0,146.0,20.0,N,,C Shamshuddin,RK Illingworth,2020
+1216520,2020/21,,2020-10-26,League,CH Gayle,Sharjah Cricket Stadium,KKR,PBKS,PBKS,field,PBKS,wickets,8.0,150.0,20.0,N,,KN Ananthapadmanabhan,RK Illingworth,2020
+1216524,2020/21,,2020-10-27,League,WP Saha,Dubai International Cricket Stadium,SRH,DC,DC,field,SRH,runs,88.0,220.0,20.0,N,,AK Chaudhary,Nitin Menon,2020
+1216499,2020/21,Abu Dhabi,2020-10-28,League,SA Yadav,Sheikh Zayed Stadium,RCB,MI,MI,field,MI,wickets,5.0,165.0,20.0,N,,UV Gandhe,CB Gaffaney,2020
+1216536,2020/21,,2020-10-29,League,RD Gaikwad,Dubai International Cricket Stadium,KKR,CSK,CSK,field,CSK,wickets,6.0,173.0,20.0,N,,C Shamshuddin,RK Illingworth,2020
+1216537,2020/21,Abu Dhabi,2020-10-30,League,BA Stokes,Sheikh Zayed Stadium,PBKS,RR,RR,field,RR,wickets,7.0,186.0,20.0,N,,CB Gaffaney,S Ravi,2020
+1216502,2020/21,,2020-10-31,League,Sandeep Sharma,Sharjah Cricket Stadium,RCB,SRH,SRH,field,SRH,wickets,5.0,121.0,20.0,N,,KN Ananthapadmanabhan,K Srinivasan,2020
+1216535,2020/21,,2020-10-31,League,Ishan Kishan,Dubai International Cricket Stadium,DC,MI,MI,field,MI,wickets,9.0,111.0,20.0,N,,YC Barde,PR Reiffel,2020
+1216506,2020/21,Abu Dhabi,2020-11-01,League,RD Gaikwad,Sheikh Zayed Stadium,PBKS,CSK,CSK,field,CSK,wickets,9.0,154.0,20.0,N,,PG Pathak,VK Sharma,2020
+1216530,2020/21,,2020-11-01,League,PJ Cummins,Dubai International Cricket Stadium,KKR,RR,RR,field,KKR,runs,60.0,192.0,20.0,N,,Nitin Menon,PR Reiffel,2020
+1216505,2020/21,Abu Dhabi,2020-11-02,League,A Nortje,Sheikh Zayed Stadium,RCB,DC,DC,field,DC,wickets,6.0,153.0,20.0,N,,CB Gaffaney,S Ravi,2020
+1216495,2020/21,,2020-11-03,League,S Nadeem,Sharjah Cricket Stadium,MI,SRH,SRH,field,SRH,wickets,10.0,150.0,20.0,N,,C Shamshuddin,RK Illingworth,2020
+1237177,2020/21,,2020-11-05,Qualifier 1,JJ Bumrah,Dubai International Cricket Stadium,MI,DC,DC,field,MI,runs,57.0,201.0,20.0,N,,CB Gaffaney,Nitin Menon,2020
+1237178,2020/21,Abu Dhabi,2020-11-06,Eliminator,KS Williamson,Sheikh Zayed Stadium,RCB,SRH,SRH,field,SRH,wickets,6.0,132.0,20.0,N,,PR Reiffel,S Ravi,2020
+1237180,2020/21,Abu Dhabi,2020-11-08,Qualifier 2,MP Stoinis,Sheikh Zayed Stadium,DC,SRH,DC,bat,DC,runs,17.0,190.0,20.0,N,,PR Reiffel,S Ravi,2020
+1237181,2020/21,,2020-11-10,Final,TA Boult,Dubai International Cricket Stadium,DC,MI,DC,bat,MI,wickets,5.0,157.0,20.0,N,,CB Gaffaney,Nitin Menon,2020
+1254058,2021,Chennai,2021-04-09,League,HV Patel,MA Chidambaram Stadium,MI,RCB,RCB,field,RCB,wickets,2.0,160.0,20.0,N,,KN Ananthapadmanabhan,Nitin Menon,2021
+1254059,2021,Mumbai,2021-04-10,League,S Dhawan,Wankhede Stadium,CSK,DC,DC,field,DC,wickets,7.0,189.0,20.0,N,,AK Chaudhary,VK Sharma,2021
+1254060,2021,Chennai,2021-04-11,League,N Rana,MA Chidambaram Stadium,KKR,SRH,SRH,field,KKR,runs,10.0,188.0,20.0,N,,KN Ananthapadmanabhan,Nitin Menon,2021
+1254061,2021,Mumbai,2021-04-12,League,SV Samson,Wankhede Stadium,PBKS,RR,RR,field,PBKS,runs,4.0,222.0,20.0,N,,AK Chaudhary,S Ravi,2021
+1254062,2021,Chennai,2021-04-13,League,RD Chahar,MA Chidambaram Stadium,MI,KKR,KKR,field,MI,runs,10.0,153.0,20.0,N,,C Shamshuddin,CB Gaffaney,2021
+1254063,2021,Chennai,2021-04-14,League,GJ Maxwell,MA Chidambaram Stadium,RCB,SRH,SRH,field,RCB,runs,6.0,150.0,20.0,N,,Nitin Menon,UV Gandhe,2021
+1254064,2021,Mumbai,2021-04-15,League,JD Unadkat,Wankhede Stadium,DC,RR,RR,field,RR,wickets,3.0,148.0,20.0,N,,S Ravi,VK Sharma,2021
+1254065,2021,Mumbai,2021-04-16,League,DL Chahar,Wankhede Stadium,PBKS,CSK,CSK,field,CSK,wickets,6.0,107.0,20.0,N,,AK Chaudhary,AY Dandekar,2021
+1254066,2021,Chennai,2021-04-17,League,KA Pollard,MA Chidambaram Stadium,MI,SRH,MI,bat,MI,runs,13.0,151.0,20.0,N,,CB Gaffaney,K Srinivasan,2021
+1254067,2021,Chennai,2021-04-18,League,AB de Villiers,MA Chidambaram Stadium,RCB,KKR,RCB,bat,RCB,runs,38.0,205.0,20.0,N,,C Shamshuddin,Nitin Menon,2021
+1254068,2021,Mumbai,2021-04-18,League,S Dhawan,Wankhede Stadium,PBKS,DC,DC,field,DC,wickets,6.0,196.0,20.0,N,,AK Chaudhary,PR Reiffel,2021
+1254069,2021,Mumbai,2021-04-19,League,MM Ali,Wankhede Stadium,CSK,RR,RR,field,CSK,runs,45.0,189.0,20.0,N,,PR Reiffel,VK Sharma,2021
+1254070,2021,Chennai,2021-04-20,League,A Mishra,MA Chidambaram Stadium,MI,DC,MI,bat,DC,wickets,6.0,138.0,20.0,N,,C Shamshuddin,CB Gaffaney,2021
+1254071,2021,Chennai,2021-04-21,League,JM Bairstow,MA Chidambaram Stadium,PBKS,SRH,PBKS,bat,SRH,wickets,9.0,121.0,20.0,N,,K Srinivasan,Nitin Menon,2021
+1254072,2021,Mumbai,2021-04-21,League,F du Plessis,Wankhede Stadium,CSK,KKR,KKR,field,CSK,runs,18.0,221.0,20.0,N,,AY Dandekar,PR Reiffel,2021
+1254073,2021,Mumbai,2021-04-22,League,D Padikkal,Wankhede Stadium,RR,RCB,RCB,field,RCB,wickets,10.0,178.0,20.0,N,,J Madanagopal,S Ravi,2021
+1254074,2021,Chennai,2021-04-23,League,KL Rahul,MA Chidambaram Stadium,MI,PBKS,PBKS,field,PBKS,wickets,9.0,132.0,20.0,N,,C Shamshuddin,Nitin Menon,2021
+1254075,2021,Mumbai,2021-04-24,League,CH Morris,Wankhede Stadium,KKR,RR,RR,field,RR,wickets,6.0,134.0,20.0,N,,Navdeep Singh,S Ravi,2021
+1254076,2021,Mumbai,2021-04-25,League,RA Jadeja,Wankhede Stadium,CSK,RCB,CSK,bat,CSK,runs,69.0,192.0,20.0,N,,AK Chaudhary,VK Sharma,2021
+1254077,2021,Chennai,2021-04-25,League,PP Shaw,MA Chidambaram Stadium,DC,SRH,DC,bat,DC,tie,,160.0,20.0,Y,,CB Gaffaney,KN Ananthapadmanabhan,2021
+1254078,2021,Ahmedabad,2021-04-26,League,EJG Morgan,"Narendra Modi Stadium, Ahmedabad",PBKS,KKR,KKR,field,KKR,wickets,5.0,124.0,20.0,N,,PR Reiffel,YC Barde,2021
+1254079,2021,Ahmedabad,2021-04-27,League,AB de Villiers,"Narendra Modi Stadium, Ahmedabad",RCB,DC,DC,field,RCB,runs,1.0,172.0,20.0,N,,S Ravi,VK Sharma,2021
+1254080,2021,Delhi,2021-04-28,League,RD Gaikwad,Arun Jaitley Stadium,SRH,CSK,SRH,bat,CSK,wickets,7.0,172.0,20.0,N,,C Shamshuddin,CK Nandan,2021
+1254081,2021,Delhi,2021-04-29,League,Q de Kock,Arun Jaitley Stadium,RR,MI,MI,field,MI,wickets,7.0,172.0,20.0,N,,CB Gaffaney,KN Ananthapadmanabhan,2021
+1254082,2021,Ahmedabad,2021-04-29,League,PP Shaw,"Narendra Modi Stadium, Ahmedabad",KKR,DC,DC,field,DC,wickets,7.0,155.0,20.0,N,,AK Chaudhary,YC Barde,2021
+1254083,2021,Ahmedabad,2021-04-30,League,Harpreet Brar,"Narendra Modi Stadium, Ahmedabad",PBKS,RCB,RCB,field,PBKS,runs,34.0,180.0,20.0,N,,S Ravi,VK Sharma,2021
+1254084,2021,Delhi,2021-05-01,League,KA Pollard,Arun Jaitley Stadium,CSK,MI,MI,field,MI,wickets,4.0,219.0,20.0,N,,KN Ananthapadmanabhan,CK Nandan,2021
+1254085,2021,Delhi,2021-05-02,League,JC Buttler,Arun Jaitley Stadium,RR,SRH,SRH,field,RR,runs,55.0,221.0,20.0,N,,C Shamshuddin,CB Gaffaney,2021
+1254086,2021,Ahmedabad,2021-05-02,League,MA Agarwal,"Narendra Modi Stadium, Ahmedabad",PBKS,DC,DC,field,DC,wickets,7.0,167.0,20.0,N,,AK Chaudhary,AY Dandekar,2021
+1254104,2021,Dubai,2021-09-19,League,RD Gaikwad,Dubai International Cricket Stadium,CSK,MI,CSK,bat,CSK,runs,20.0,157.0,20.0,N,,Nitin Menon,RK Illingworth,2021
+1254087,2021,Abu Dhabi,2021-09-20,League,CV Varun,"Zayed Cricket Stadium, Abu Dhabi",RCB,KKR,RCB,bat,KKR,wickets,9.0,93.0,20.0,N,,CB Gaffaney,S Ravi,2021
+1254111,2021,Dubai,2021-09-21,League,Kartik Tyagi,Dubai International Cricket Stadium,RR,PBKS,PBKS,field,RR,runs,2.0,186.0,20.0,N,,AK Chaudhary,MA Gough,2021
+1254105,2021,Dubai,2021-09-22,League,A Nortje,Dubai International Cricket Stadium,SRH,DC,SRH,bat,DC,wickets,8.0,135.0,20.0,N,,KN Ananthapadmanabhan,RK Illingworth,2021
+1254096,2021,Abu Dhabi,2021-09-23,League,SP Narine,"Zayed Cricket Stadium, Abu Dhabi",MI,KKR,KKR,field,KKR,wickets,7.0,156.0,20.0,N,,S Ravi,VK Sharma,2021
+1254113,2021,Sharjah,2021-09-24,League,DJ Bravo,Sharjah Cricket Stadium,RCB,CSK,CSK,field,CSK,wickets,6.0,157.0,20.0,N,,AK Chaudhary,Nitin Menon,2021
+1254097,2021,Abu Dhabi,2021-09-25,League,SS Iyer,"Zayed Cricket Stadium, Abu Dhabi",DC,RR,RR,field,DC,runs,33.0,155.0,20.0,N,,CB Gaffaney,UV Gandhe,2021
+1254107,2021,Sharjah,2021-09-25,League,JO Holder,Sharjah Cricket Stadium,PBKS,SRH,SRH,field,PBKS,runs,5.0,126.0,20.0,N,,RK Illingworth,YC Barde,2021
+1254098,2021,Abu Dhabi,2021-09-26,League,RA Jadeja,"Zayed Cricket Stadium, Abu Dhabi",KKR,CSK,KKR,bat,CSK,wickets,2.0,172.0,20.0,N,,CB Gaffaney,Tapan Sharma,2021
+1254108,2021,Dubai,2021-09-26,League,GJ Maxwell,Dubai International Cricket Stadium,RCB,MI,MI,field,RCB,runs,54.0,166.0,20.0,N,,AK Chaudhary,MA Gough,2021
+1254100,2021,Dubai,2021-09-27,League,JJ Roy,Dubai International Cricket Stadium,RR,SRH,RR,bat,SRH,wickets,7.0,165.0,20.0,N,,KN Ananthapadmanabhan,Navdeep Singh,2021
+1254092,2021,Sharjah,2021-09-28,League,SP Narine,Sharjah Cricket Stadium,DC,KKR,KKR,field,KKR,wickets,3.0,128.0,20.0,N,,Nitin Menon,HAS Khalid,2021
+1254099,2021,Abu Dhabi,2021-09-28,League,KA Pollard,"Zayed Cricket Stadium, Abu Dhabi",PBKS,MI,MI,field,MI,wickets,6.0,136.0,20.0,N,,S Ravi,VK Sharma,2021
+1254103,2021,Dubai,2021-09-29,League,YS Chahal,Dubai International Cricket Stadium,RR,RCB,RCB,field,RCB,wickets,7.0,150.0,20.0,N,,AY Dandekar,KN Ananthapadmanabhan,2021
+1254091,2021,Sharjah,2021-09-30,League,JR Hazlewood,Sharjah Cricket Stadium,SRH,CSK,CSK,field,CSK,wickets,6.0,135.0,20.0,N,,Nitin Menon,YC Barde,2021
+1254102,2021,Dubai,2021-10-01,League,KL Rahul,Dubai International Cricket Stadium,KKR,PBKS,PBKS,field,PBKS,wickets,5.0,166.0,20.0,N,,KN Ananthapadmanabhan,RK Illingworth,2021
+1254089,2021,Abu Dhabi,2021-10-02,League,RD Gaikwad,"Zayed Cricket Stadium, Abu Dhabi",CSK,RR,RR,field,RR,wickets,7.0,190.0,20.0,N,,CB Gaffaney,VK Sharma,2021
+1254112,2021,Sharjah,2021-10-02,League,AR Patel,Sharjah Cricket Stadium,MI,DC,DC,field,DC,wickets,4.0,130.0,20.0,N,,AK Chaudhary,MA Gough,2021
+1254090,2021,Sharjah,2021-10-03,League,GJ Maxwell,Sharjah Cricket Stadium,RCB,PBKS,RCB,bat,RCB,runs,6.0,165.0,20.0,N,,KN Ananthapadmanabhan,RK Illingworth,2021
+1254109,2021,Dubai,2021-10-03,League,Shubman Gill,Dubai International Cricket Stadium,SRH,KKR,SRH,bat,KKR,wickets,6.0,116.0,20.0,N,,J Madanagopal,MA Gough,2021
+1254110,2021,Dubai,2021-10-04,League,AR Patel,Dubai International Cricket Stadium,CSK,DC,DC,field,DC,wickets,3.0,137.0,20.0,N,,AK Chaudhary,Nitin Menon,2021
+1254093,2021,Sharjah,2021-10-05,League,NM Coulter-Nile,Sharjah Cricket Stadium,RR,MI,MI,field,MI,wickets,8.0,91.0,20.0,N,,AK Chaudhary,MA Gough,2021
+1254095,2021,Abu Dhabi,2021-10-06,League,KS Williamson,"Zayed Cricket Stadium, Abu Dhabi",SRH,RCB,RCB,field,SRH,runs,4.0,142.0,20.0,N,,S Ravi,UV Gandhe,2021
+1254094,2021,Dubai,2021-10-07,League,KL Rahul,Dubai International Cricket Stadium,CSK,PBKS,PBKS,field,PBKS,wickets,6.0,135.0,20.0,N,,K Srinivasan,RK Illingworth,2021
+1254106,2021,Sharjah,2021-10-07,League,Shivam Mavi,Sharjah Cricket Stadium,KKR,RR,RR,field,KKR,runs,86.0,172.0,20.0,N,,MA Gough,HAS Khalid,2021
+1254088,2021,Abu Dhabi,2021-10-08,League,Ishan Kishan,"Zayed Cricket Stadium, Abu Dhabi",MI,SRH,MI,bat,MI,runs,42.0,236.0,20.0,N,,Tapan Sharma,VK Sharma,2021
+1254101,2021,Dubai,2021-10-08,League,KS Bharat,Dubai International Cricket Stadium,DC,RCB,RCB,field,RCB,wickets,7.0,165.0,20.0,N,,KN Ananthapadmanabhan,Nitin Menon,2021
+1254114,2021,Dubai,2021-10-10,Qualifier 1,RD Gaikwad,Dubai International Cricket Stadium,DC,CSK,CSK,field,CSK,wickets,4.0,173.0,20.0,N,,Nitin Menon,RK Illingworth,2021
+1254115,2021,Sharjah,2021-10-11,Eliminator,SP Narine,Sharjah Cricket Stadium,RCB,KKR,RCB,bat,KKR,wickets,4.0,139.0,20.0,N,,CB Gaffaney,VK Sharma,2021
+1254116,2021,Sharjah,2021-10-13,Qualifier 2,VR Iyer,Sharjah Cricket Stadium,DC,KKR,KKR,field,KKR,wickets,3.0,136.0,20.0,N,,KN Ananthapadmanabhan,MA Gough,2021
+1254117,2021,Dubai,2021-10-15,Final,F du Plessis,Dubai International Cricket Stadium,CSK,KKR,KKR,field,CSK,runs,27.0,193.0,20.0,N,,Nitin Menon,RK Illingworth,2021
+1304047,2022,Mumbai,2022-03-26,League,UT Yadav,Wankhede Stadium,CSK,KKR,KKR,field,KKR,wickets,6.0,132.0,20.0,N,,AK Chaudhary,Nitin Menon,2022
+1304048,2022,Mumbai,2022-03-27,League,Kuldeep Yadav,Brabourne Stadium,MI,DC,DC,field,DC,wickets,4.0,178.0,20.0,N,,RJ Tucker,HAS Khalid,2022
+1304049,2022,Mumbai,2022-03-27,League,OF Smith,Dr DY Patil Sports Academy,RCB,PBKS,PBKS,field,PBKS,wickets,5.0,206.0,20.0,N,,Nitin Menon,YC Barde,2022
+1304050,2022,Mumbai,2022-03-28,League,Mohammed Shami,Wankhede Stadium,LSG,GT,GT,field,GT,wickets,5.0,159.0,20.0,N,,PG Pathak,VK Sharma,2022
+1304051,2022,Pune,2022-03-29,League,SV Samson,Maharashtra Cricket Association Stadium,RR,SRH,SRH,field,RR,runs,61.0,211.0,20.0,N,,BNJ Oxenford,UV Gandhe,2022
+1304052,2022,Mumbai,2022-03-30,League,PWH de Silva,Dr DY Patil Sports Academy,KKR,RCB,RCB,field,RCB,wickets,3.0,129.0,20.0,N,,J Madanagopal,Navdeep Singh,2022
+1304053,2022,Mumbai,2022-03-31,League,E Lewis,Brabourne Stadium,CSK,LSG,LSG,field,LSG,wickets,6.0,211.0,20.0,N,,RJ Tucker,VK Sharma,2022
+1304054,2022,Mumbai,2022-04-01,League,UT Yadav,Wankhede Stadium,PBKS,KKR,KKR,field,KKR,wickets,6.0,138.0,20.0,N,,AK Chaudhary,HAS Khalid,2022
+1304055,2022,Mumbai,2022-04-02,League,JC Buttler,Dr DY Patil Sports Academy,RR,MI,MI,field,RR,runs,23.0,194.0,20.0,N,,Nitin Menon,PG Pathak,2022
+1304056,2022,Pune,2022-04-02,League,LH Ferguson,Maharashtra Cricket Association Stadium,GT,DC,DC,field,GT,runs,14.0,172.0,20.0,N,,KN Ananthapadmanabhan,UV Gandhe,2022
+1304057,2022,Mumbai,2022-04-03,League,LS Livingstone,Brabourne Stadium,PBKS,CSK,CSK,field,PBKS,runs,54.0,181.0,20.0,N,,RJ Tucker,YC Barde,2022
+1304058,2022,Mumbai,2022-04-04,League,Avesh Khan,Dr DY Patil Sports Academy,LSG,SRH,SRH,field,LSG,runs,12.0,170.0,20.0,N,,J Madanagopal,Navdeep Singh,2022
+1304059,2022,Mumbai,2022-04-05,League,KD Karthik,Wankhede Stadium,RR,RCB,RCB,field,RCB,wickets,4.0,170.0,20.0,N,,AK Chaudhary,HAS Khalid,2022
+1304060,2022,Pune,2022-04-06,League,PJ Cummins,Maharashtra Cricket Association Stadium,MI,KKR,KKR,field,KKR,wickets,5.0,162.0,20.0,N,,BNJ Oxenford,KN Ananthapadmanabhan,2022
+1304061,2022,Mumbai,2022-04-07,League,Q de Kock,Dr DY Patil Sports Academy,DC,LSG,LSG,field,LSG,wickets,6.0,150.0,20.0,N,,RJ Tucker,Tapan Sharma,2022
+1304062,2022,Mumbai,2022-04-08,League,Shubman Gill,Brabourne Stadium,PBKS,GT,GT,field,GT,wickets,6.0,190.0,20.0,N,,AK Chaudhary,VK Sharma,2022
+1304063,2022,Mumbai,2022-04-09,League,Abhishek Sharma,Dr DY Patil Sports Academy,CSK,SRH,SRH,field,SRH,wickets,8.0,155.0,20.0,N,,Navdeep Singh,Nitin Menon,2022
+1304064,2022,Pune,2022-04-09,League,Anuj Rawat,Maharashtra Cricket Association Stadium,MI,RCB,RCB,field,RCB,wickets,7.0,152.0,20.0,N,,BNJ Oxenford,KN Ananthapadmanabhan,2022
+1304065,2022,Mumbai,2022-04-10,League,Kuldeep Yadav,Brabourne Stadium,DC,KKR,KKR,field,DC,runs,44.0,216.0,20.0,N,,CB Gaffaney,J Madanagopal,2022
+1304066,2022,Mumbai,2022-04-10,League,YS Chahal,Wankhede Stadium,RR,LSG,LSG,field,RR,runs,3.0,166.0,20.0,N,,AK Chaudhary,Tapan Sharma,2022
+1304067,2022,Mumbai,2022-04-11,League,KS Williamson,Dr DY Patil Sports Academy,GT,SRH,SRH,field,SRH,wickets,8.0,163.0,20.0,N,,Chirra Ravikanthreddy,RJ Tucker,2022
+1304068,2022,Mumbai,2022-04-12,League,S Dube,Dr DY Patil Sports Academy,CSK,RCB,RCB,field,CSK,runs,23.0,217.0,20.0,N,,Nitin Menon,N Pandit,2022
+1304069,2022,Pune,2022-04-13,League,MA Agarwal,Maharashtra Cricket Association Stadium,PBKS,MI,MI,field,PBKS,runs,12.0,199.0,20.0,N,,BNJ Oxenford,UV Gandhe,2022
+1304070,2022,Mumbai,2022-04-14,League,HH Pandya,Dr DY Patil Sports Academy,GT,RR,RR,field,GT,runs,37.0,193.0,20.0,N,,CB Gaffaney,R Pandit,2022
+1304071,2022,Mumbai,2022-04-15,League,RA Tripathi,Brabourne Stadium,KKR,SRH,SRH,field,SRH,wickets,7.0,176.0,20.0,N,,GR Sadashiv Iyer,VK Sharma,2022
+1304072,2022,Mumbai,2022-04-16,League,KL Rahul,Brabourne Stadium,LSG,MI,MI,field,LSG,runs,18.0,200.0,20.0,N,,AK Chaudhary,NA Patwardhan,2022
+1304073,2022,Mumbai,2022-04-16,League,KD Karthik,Wankhede Stadium,RCB,DC,DC,field,RCB,runs,16.0,190.0,20.0,N,,Chirra Ravikanthreddy,J Madanagopal,2022
+1304074,2022,Mumbai,2022-04-17,League,Umran Malik,Dr DY Patil Sports Academy,PBKS,SRH,SRH,field,SRH,wickets,7.0,152.0,20.0,N,,PG Pathak,R Pandit,2022
+1304075,2022,Pune,2022-04-17,League,DA Miller,Maharashtra Cricket Association Stadium,CSK,GT,GT,field,GT,wickets,3.0,170.0,20.0,N,,KN Ananthapadmanabhan,UV Gandhe,2022
+1304076,2022,Mumbai,2022-04-18,League,YS Chahal,Brabourne Stadium,RR,KKR,KKR,field,RR,runs,7.0,218.0,20.0,N,,GR Sadashiv Iyer,VK Sharma,2022
+1304077,2022,Mumbai,2022-04-19,League,F du Plessis,Dr DY Patil Sports Academy,RCB,LSG,LSG,field,RCB,runs,18.0,182.0,20.0,N,,CB Gaffaney,N Pandit,2022
+1304078,2022,Mumbai,2022-04-20,League,Kuldeep Yadav,Brabourne Stadium,PBKS,DC,DC,field,DC,wickets,9.0,116.0,20.0,N,,RJ Tucker,Tapan Sharma,2022
+1304079,2022,Navi Mumbai,2022-04-21,League,Mukesh Choudhary,Dr DY Patil Sports Academy,MI,CSK,CSK,field,CSK,wickets,3.0,156.0,20.0,N,,BNJ Oxenford,UV Gandhe,2022
+1304080,2022,Mumbai,2022-04-22,League,JC Buttler,Wankhede Stadium,RR,DC,DC,field,RR,runs,15.0,223.0,20.0,N,,NA Patwardhan,Nitin Menon,2022
+1304081,2022,Navi Mumbai,2022-04-23,League,Rashid Khan,Dr DY Patil Sports Academy,GT,KKR,GT,bat,GT,runs,8.0,157.0,20.0,N,,KN Ananthapadmanabhan,UV Gandhe,2022
+1304082,2022,Mumbai,2022-04-23,League,M Jansen,Brabourne Stadium,RCB,SRH,SRH,field,SRH,wickets,9.0,69.0,20.0,N,,Chirra Ravikanthreddy,J Madanagopal,2022
+1304083,2022,Mumbai,2022-04-24,League,KL Rahul,Wankhede Stadium,LSG,MI,MI,field,LSG,runs,36.0,169.0,20.0,N,,M Erasmus,HAS Khalid,2022
+1304084,2022,Mumbai,2022-04-25,League,S Dhawan,Wankhede Stadium,PBKS,CSK,CSK,field,PBKS,runs,11.0,188.0,20.0,N,,M Erasmus,Tapan Sharma,2022
+1304085,2022,Pune,2022-04-26,League,R Parag,Maharashtra Cricket Association Stadium,RR,RCB,RCB,field,RR,runs,29.0,145.0,20.0,N,,BNJ Oxenford,KN Ananthapadmanabhan,2022
+1304086,2022,Mumbai,2022-04-27,League,Umran Malik,Wankhede Stadium,SRH,GT,GT,field,GT,wickets,5.0,196.0,20.0,N,,CB Gaffaney,Navdeep Singh,2022
+1304087,2022,Mumbai,2022-04-28,League,Kuldeep Yadav,Wankhede Stadium,KKR,DC,DC,field,DC,wickets,4.0,147.0,20.0,N,,AK Chaudhary,PG Pathak,2022
+1304088,2022,Pune,2022-04-29,League,KH Pandya,Maharashtra Cricket Association Stadium,LSG,PBKS,PBKS,field,LSG,runs,20.0,154.0,20.0,N,,MA Gough,UV Gandhe,2022
+1304089,2022,Mumbai,2022-04-30,League,R Tewatia,Brabourne Stadium,RCB,GT,RCB,bat,GT,wickets,6.0,171.0,20.0,N,,HAS Khalid,VK Sharma,2022
+1304090,2022,Navi Mumbai,2022-04-30,League,SA Yadav,Dr DY Patil Sports Academy,RR,MI,MI,field,MI,wickets,5.0,159.0,20.0,N,,BNJ Oxenford,YC Barde,2022
+1304091,2022,Mumbai,2022-05-01,League,Mohsin Khan,Wankhede Stadium,LSG,DC,LSG,bat,LSG,runs,6.0,196.0,20.0,N,,Chirra Ravikanthreddy,CB Gaffaney,2022
+1304092,2022,Pune,2022-05-01,League,RD Gaikwad,Maharashtra Cricket Association Stadium,CSK,SRH,SRH,field,CSK,runs,13.0,203.0,20.0,N,,AK Chaudhary,KN Ananthapadmanabhan,2022
+1304093,2022,Mumbai,2022-05-02,League,RK Singh,Wankhede Stadium,RR,KKR,KKR,field,KKR,wickets,7.0,153.0,20.0,N,,J Madanagopal,N Pandit,2022
+1304094,2022,Navi Mumbai,2022-05-03,League,K Rabada,Dr DY Patil Sports Academy,GT,PBKS,GT,bat,PBKS,wickets,8.0,144.0,20.0,N,,R Pandit,VK Sharma,2022
+1304095,2022,Pune,2022-05-04,League,HV Patel,Maharashtra Cricket Association Stadium,RCB,CSK,CSK,field,RCB,runs,13.0,174.0,20.0,N,,KN Ananthapadmanabhan,MA Gough,2022
+1304096,2022,Mumbai,2022-05-05,League,DA Warner,Brabourne Stadium,DC,SRH,SRH,field,DC,runs,21.0,208.0,20.0,N,,Navdeep Singh,NA Patwardhan,2022
+1304097,2022,Mumbai,2022-05-06,League,TH David,Brabourne Stadium,MI,GT,GT,field,MI,runs,5.0,178.0,20.0,N,,J Madanagopal,GR Sadashiv Iyer,2022
+1304098,2022,Mumbai,2022-05-07,League,YBK Jaiswal,Wankhede Stadium,PBKS,RR,PBKS,bat,RR,wickets,6.0,190.0,20.0,N,,Chirra Ravikanthreddy,YC Barde,2022
+1304099,2022,Pune,2022-05-07,League,Avesh Khan,Maharashtra Cricket Association Stadium,LSG,KKR,KKR,field,LSG,runs,75.0,177.0,20.0,N,,AK Chaudhary,MA Gough,2022
+1304100,2022,Mumbai,2022-05-08,League,PWH de Silva,Wankhede Stadium,RCB,SRH,RCB,bat,RCB,runs,67.0,193.0,20.0,N,,BNJ Oxenford,N Pandit,2022
+1304101,2022,Navi Mumbai,2022-05-08,League,DP Conway,Dr DY Patil Sports Academy,CSK,DC,DC,field,CSK,runs,91.0,209.0,20.0,N,,Nitin Menon,R Pandit,2022
+1304102,2022,Navi Mumbai,2022-05-09,League,JJ Bumrah,Dr DY Patil Sports Academy,KKR,MI,MI,field,KKR,runs,52.0,166.0,20.0,N,,CB Gaffaney,GR Sadashiv Iyer,2022
+1304103,2022,Pune,2022-05-10,League,Shubman Gill,Maharashtra Cricket Association Stadium,GT,LSG,GT,bat,GT,runs,62.0,145.0,20.0,N,,KN Ananthapadmanabhan,MA Gough,2022
+1304104,2022,Navi Mumbai,2022-05-11,League,MR Marsh,Dr DY Patil Sports Academy,RR,DC,DC,field,DC,wickets,8.0,161.0,20.0,N,,NA Patwardhan,Nitin Menon,2022
+1304105,2022,Mumbai,2022-05-12,League,DR Sams,Wankhede Stadium,CSK,MI,MI,field,MI,wickets,5.0,98.0,20.0,N,,Chirra Ravikanthreddy,CB Gaffaney,2022
+1304106,2022,Mumbai,2022-05-13,League,JM Bairstow,Brabourne Stadium,PBKS,RCB,RCB,field,PBKS,runs,54.0,210.0,20.0,N,,J Madanagopal,N Pandit,2022
+1304107,2022,Pune,2022-05-14,League,AD Russell,Maharashtra Cricket Association Stadium,KKR,SRH,KKR,bat,KKR,runs,54.0,178.0,20.0,N,,AK Chaudhary,KN Ananthapadmanabhan,2022
+1304108,2022,Mumbai,2022-05-15,League,WP Saha,Wankhede Stadium,CSK,GT,CSK,bat,GT,wickets,7.0,134.0,20.0,N,,R Pandit,VK Sharma,2022
+1304109,2022,Mumbai,2022-05-15,League,TA Boult,Brabourne Stadium,RR,LSG,RR,bat,RR,runs,24.0,179.0,20.0,N,,PG Pathak,Tapan Sharma,2022
+1304110,2022,Navi Mumbai,2022-05-16,League,SN Thakur,Dr DY Patil Sports Academy,DC,PBKS,PBKS,field,DC,runs,17.0,160.0,20.0,N,,GR Sadashiv Iyer,Nitin Menon,2022
+1304111,2022,Mumbai,2022-05-17,League,RA Tripathi,Wankhede Stadium,SRH,MI,MI,field,SRH,runs,3.0,194.0,20.0,N,,CB Gaffaney,N Pandit,2022
+1304112,2022,Navi Mumbai,2022-05-18,League,Q de Kock,Dr DY Patil Sports Academy,LSG,KKR,LSG,bat,LSG,runs,2.0,211.0,20.0,N,,R Pandit,YC Barde,2022
+1304113,2022,Mumbai,2022-05-19,League,V Kohli,Wankhede Stadium,GT,RCB,GT,bat,RCB,wickets,8.0,169.0,20.0,N,,KN Ananthapadmanabhan,GR Sadashiv Iyer,2022
+1304114,2022,Mumbai,2022-05-20,League,R Ashwin,Brabourne Stadium,CSK,RR,CSK,bat,RR,wickets,5.0,151.0,20.0,N,,CB Gaffaney,NA Patwardhan,2022
+1304115,2022,Mumbai,2022-05-21,League,JJ Bumrah,Wankhede Stadium,DC,MI,MI,field,MI,wickets,5.0,160.0,20.0,N,,Nitin Menon,Tapan Sharma,2022
+1304116,2022,Mumbai,2022-05-22,League,Harpreet Brar,Wankhede Stadium,SRH,PBKS,SRH,bat,PBKS,wickets,5.0,158.0,20.0,N,,AK Chaudhary,NA Patwardhan,2022
+1312197,2022,Kolkata,2022-05-24,Qualifier 1,DA Miller,Eden Gardens,RR,GT,GT,field,GT,wickets,7.0,189.0,20.0,N,,BNJ Oxenford,VK Sharma,2022
+1312198,2022,Kolkata,2022-05-25,Eliminator,RM Patidar,Eden Gardens,RCB,LSG,LSG,field,RCB,runs,14.0,208.0,20.0,N,,J Madanagopal,MA Gough,2022
+1312199,2022,Ahmedabad,2022-05-27,Qualifier 2,JC Buttler,"Narendra Modi Stadium, Ahmedabad",RCB,RR,RR,field,RR,wickets,7.0,158.0,20.0,N,,CB Gaffaney,Nitin Menon,2022
+1312200,2022,Ahmedabad,2022-05-29,Final,HH Pandya,"Narendra Modi Stadium, Ahmedabad",RR,GT,RR,bat,GT,wickets,7.0,131.0,20.0,N,,CB Gaffaney,Nitin Menon,2022
+1359475,2023,Ahmedabad,2023-03-31,League,Rashid Khan,"Narendra Modi Stadium, Ahmedabad",CSK,GT,GT,field,GT,wickets,5.0,179.0,20.0,N,,Nitin Menon,HAS Khalid,2023
+1359476,2023,Chandigarh,2023-04-01,League,Arshdeep Singh,Punjab Cricket Association Stadium,PBKS,KKR,KKR,field,PBKS,runs,7.0,154.0,16.0,N,D/L,BNJ Oxenford,YC Barde,2023
+1359477,2023,Lucknow,2023-04-01,League,MA Wood,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,DC,DC,field,LSG,runs,50.0,194.0,20.0,N,,AK Chaudhary,NA Patwardhan,2023
+1359478,2023,Hyderabad,2023-04-02,League,JC Buttler,Rajiv Gandhi International Stadium,RR,SRH,SRH,field,RR,runs,72.0,204.0,20.0,N,,KN Ananthapadmanabhan,R Pandit,2023
+1359479,2023,Bengaluru,2023-04-02,League,F du Plessis,M Chinnaswamy Stadium,MI,RCB,RCB,field,RCB,wickets,8.0,172.0,20.0,N,,Nitin Menon,Tapan Sharma,2023
+1359480,2023,Chennai,2023-04-03,League,MM Ali,MA Chidambaram Stadium,CSK,LSG,LSG,field,CSK,runs,12.0,218.0,20.0,N,,A Totre,BNJ Oxenford,2023
+1359481,2023,Delhi,2023-04-04,League,B Sai Sudharsan,Arun Jaitley Stadium,DC,GT,GT,field,GT,wickets,6.0,163.0,20.0,N,,A Nand Kishore,GR Sadashiv Iyer,2023
+1359482,2023,Guwahati,2023-04-05,League,NT Ellis,"Barsapara Cricket Stadium, Guwahati",PBKS,RR,RR,field,PBKS,runs,5.0,198.0,20.0,N,,KN Ananthapadmanabhan,MV Saidharshan Kumar,2023
+1359483,2023,Kolkata,2023-04-06,League,SN Thakur,Eden Gardens,KKR,RCB,RCB,field,KKR,runs,81.0,205.0,20.0,N,,Vinod Seshan,VK Sharma,2023
+1359484,2023,Lucknow,2023-04-07,League,KH Pandya,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",SRH,LSG,SRH,bat,LSG,wickets,5.0,122.0,20.0,N,,J Madanagopal,YC Barde,2023
+1359485,2023,Guwahati,2023-04-08,League,YBK Jaiswal,"Barsapara Cricket Stadium, Guwahati",RR,DC,DC,field,RR,runs,57.0,200.0,20.0,N,,Navdeep Singh,MV Saidharshan Kumar,2023
+1359486,2023,Mumbai,2023-04-08,League,RA Jadeja,Wankhede Stadium,MI,CSK,CSK,field,CSK,wickets,7.0,158.0,20.0,N,,CB Gaffaney,NA Patwardhan,2023
+1359487,2023,Ahmedabad,2023-04-09,League,RK Singh,"Narendra Modi Stadium, Ahmedabad",GT,KKR,GT,bat,KKR,wickets,3.0,205.0,20.0,N,,Nitin Menon,Tapan Sharma,2023
+1359488,2023,Hyderabad,2023-04-09,League,S Dhawan,Rajiv Gandhi International Stadium,PBKS,SRH,SRH,field,SRH,wickets,8.0,144.0,20.0,N,,BNJ Oxenford,UV Gandhe,2023
+1359489,2023,Bengaluru,2023-04-10,League,N Pooran,M Chinnaswamy Stadium,RCB,LSG,LSG,field,LSG,wickets,1.0,213.0,20.0,N,,AK Chaudhary,A Nand Kishore,2023
+1359490,2023,Delhi,2023-04-11,League,RG Sharma,Arun Jaitley Stadium,DC,MI,MI,field,MI,wickets,6.0,173.0,20.0,N,,MA Gough,R Pandit,2023
+1359491,2023,Chennai,2023-04-12,League,R Ashwin,MA Chidambaram Stadium,RR,CSK,CSK,field,RR,runs,3.0,176.0,20.0,N,,Vinod Seshan,VK Sharma,2023
+1359492,2023,Chandigarh,2023-04-13,League,MM Sharma,Punjab Cricket Association Stadium,PBKS,GT,GT,field,GT,wickets,6.0,154.0,20.0,N,,A Totre,J Madanagopal,2023
+1359493,2023,Kolkata,2023-04-14,League,HC Brook,Eden Gardens,SRH,KKR,KKR,field,SRH,runs,23.0,229.0,20.0,N,,CB Gaffaney,GR Sadashiv Iyer,2023
+1359494,2023,Bengaluru,2023-04-15,League,V Kohli,M Chinnaswamy Stadium,RCB,DC,DC,field,RCB,runs,23.0,175.0,20.0,N,,KN Ananthapadmanabhan,MV Saidharshan Kumar,2023
+1359495,2023,Lucknow,2023-04-15,League,Sikandar Raza,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,PBKS,PBKS,field,PBKS,wickets,2.0,160.0,20.0,N,,HAS Khalid,VK Sharma,2023
+1359496,2023,Mumbai,2023-04-16,League,VR Iyer,Wankhede Stadium,KKR,MI,MI,field,MI,wickets,5.0,186.0,20.0,N,,BNJ Oxenford,UV Gandhe,2023
+1359497,2023,Ahmedabad,2023-04-16,League,SO Hetmyer,"Narendra Modi Stadium, Ahmedabad",GT,RR,RR,field,RR,wickets,3.0,178.0,20.0,N,,AK Chaudhary,CB Gaffaney,2023
+1359498,2023,Bengaluru,2023-04-17,League,DP Conway,M Chinnaswamy Stadium,CSK,RCB,RCB,field,CSK,runs,8.0,227.0,20.0,N,,KN Ananthapadmanabhan,Navdeep Singh,2023
+1359499,2023,Hyderabad,2023-04-18,League,C Green,Rajiv Gandhi International Stadium,MI,SRH,SRH,field,MI,runs,14.0,193.0,20.0,N,,Nitin Menon,Vinod Seshan,2023
+1359500,2023,Jaipur,2023-04-19,League,MP Stoinis,Sawai Mansingh Stadium,LSG,RR,RR,field,LSG,runs,10.0,155.0,20.0,N,,J Madanagopal,YC Barde,2023
+1359501,2023,Chandigarh,2023-04-20,League,Mohammed Siraj,Punjab Cricket Association Stadium,RCB,PBKS,PBKS,field,RCB,runs,24.0,175.0,20.0,N,,AK Chaudhary,GR Sadashiv Iyer,2023
+1359502,2023,Delhi,2023-04-20,League,I Sharma,Arun Jaitley Stadium,KKR,DC,DC,field,DC,wickets,4.0,128.0,20.0,N,,MA Gough,R Pandit,2023
+1359503,2023,Chennai,2023-04-21,League,RA Jadeja,MA Chidambaram Stadium,SRH,CSK,CSK,field,CSK,wickets,7.0,135.0,20.0,N,,HAS Khalid,VK Sharma,2023
+1359504,2023,Lucknow,2023-04-22,League,MM Sharma,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",GT,LSG,GT,bat,GT,runs,7.0,136.0,20.0,N,,A Totre,RJ Tucker,2023
+1359505,2023,Mumbai,2023-04-22,League,SM Curran,Wankhede Stadium,PBKS,MI,MI,field,PBKS,runs,13.0,215.0,20.0,N,,CB Gaffaney,GR Sadashiv Iyer,2023
+1359506,2023,Bengaluru,2023-04-23,League,GJ Maxwell,M Chinnaswamy Stadium,RCB,RR,RR,field,RCB,runs,7.0,190.0,20.0,N,,MA Gough,MV Saidharshan Kumar,2023
+1359507,2023,Kolkata,2023-04-23,League,AM Rahane,Eden Gardens,CSK,KKR,KKR,field,CSK,runs,49.0,236.0,20.0,N,,Nitin Menon,Tapan Sharma,2023
+1359508,2023,Hyderabad,2023-04-24,League,AR Patel,Rajiv Gandhi International Stadium,DC,SRH,DC,bat,DC,runs,7.0,145.0,20.0,N,,J Madanagopal,RJ Tucker,2023
+1359509,2023,Ahmedabad,2023-04-25,League,A Manohar,"Narendra Modi Stadium, Ahmedabad",GT,MI,MI,field,GT,runs,55.0,208.0,20.0,N,,AK Chaudhary,A Nand Kishore,2023
+1359510,2023,Bengaluru,2023-04-26,League,CV Varun,M Chinnaswamy Stadium,KKR,RCB,RCB,field,KKR,runs,21.0,201.0,20.0,N,,KN Ananthapadmanabhan,R Pandit,2023
+1359511,2023,Jaipur,2023-04-27,League,YBK Jaiswal,Sawai Mansingh Stadium,RR,CSK,RR,bat,RR,runs,32.0,203.0,20.0,N,,A Totre,YC Barde,2023
+1359512,2023,Chandigarh,2023-04-28,League,MP Stoinis,Punjab Cricket Association Stadium,LSG,PBKS,PBKS,field,LSG,runs,56.0,258.0,20.0,N,,Nitin Menon,Vinod Seshan,2023
+1359513,2023,Kolkata,2023-04-29,League,J Little,Eden Gardens,KKR,GT,GT,field,GT,wickets,7.0,180.0,20.0,N,,NA Patwardhan,GR Sadashiv Iyer,2023
+1359514,2023,Delhi,2023-04-29,League,MR Marsh,Arun Jaitley Stadium,SRH,DC,SRH,bat,SRH,runs,9.0,198.0,20.0,N,,MA Gough,Navdeep Singh,2023
+1359516,2023,Mumbai,2023-04-30,League,YBK Jaiswal,Wankhede Stadium,RR,MI,RR,bat,MI,wickets,6.0,213.0,20.0,N,,Vinod Seshan,VK Sharma,2023
+1359515,2023,Chennai,2023-04-30,League,DP Conway,MA Chidambaram Stadium,CSK,PBKS,CSK,bat,PBKS,wickets,4.0,201.0,20.0,N,,RJ Tucker,UV Gandhe,2023
+1359517,2023,Lucknow,2023-05-01,League,F du Plessis,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",RCB,LSG,RCB,bat,RCB,runs,18.0,127.0,20.0,N,,AK Chaudhary,GR Sadashiv Iyer,2023
+1359518,2023,Ahmedabad,2023-05-02,League,Mohammed Shami,"Narendra Modi Stadium, Ahmedabad",DC,GT,DC,bat,DC,runs,5.0,131.0,20.0,N,,MA Gough,R Pandit,2023
+1359519,2023,Lucknow,2023-05-03,League,,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,CSK,CSK,field,,no result,,,,N,,AK Chaudhary,NA Patwardhan,2023
+1359520,2023,Chandigarh,2023-05-03,League,Ishan Kishan,Punjab Cricket Association Stadium,PBKS,MI,MI,field,MI,wickets,6.0,215.0,20.0,N,,J Madanagopal,RJ Tucker,2023
+1359521,2023,Hyderabad,2023-05-04,League,CV Varun,Rajiv Gandhi International Stadium,KKR,SRH,KKR,bat,KKR,runs,5.0,172.0,20.0,N,,KN Ananthapadmanabhan,MA Gough,2023
+1359522,2023,Jaipur,2023-05-05,League,Rashid Khan,Sawai Mansingh Stadium,RR,GT,RR,bat,GT,wickets,9.0,119.0,20.0,N,,HAS Khalid,VK Sharma,2023
+1359524,2023,Delhi,2023-05-06,League,PD Salt,Arun Jaitley Stadium,RCB,DC,RCB,bat,DC,wickets,7.0,182.0,20.0,N,,RJ Tucker,YC Barde,2023
+1359523,2023,Chennai,2023-05-06,League,M Pathirana,MA Chidambaram Stadium,MI,CSK,CSK,field,CSK,wickets,6.0,140.0,20.0,N,,BNJ Oxenford,Navdeep Singh,2023
+1359525,2023,Ahmedabad,2023-05-07,League,Shubman Gill,"Narendra Modi Stadium, Ahmedabad",GT,LSG,LSG,field,GT,runs,56.0,228.0,20.0,N,,AK Chaudhary,A Nand Kishore,2023
+1359526,2023,Jaipur,2023-05-07,League,GD Phillips,Sawai Mansingh Stadium,RR,SRH,RR,bat,SRH,wickets,4.0,215.0,20.0,N,,Nitin Menon,Vinod Seshan,2023
+1359527,2023,Kolkata,2023-05-08,League,AD Russell,Eden Gardens,PBKS,KKR,PBKS,bat,KKR,wickets,5.0,180.0,20.0,N,,A Totre,J Madanagopal,2023
+1359528,2023,Mumbai,2023-05-09,League,SA Yadav,Wankhede Stadium,RCB,MI,MI,field,MI,wickets,6.0,200.0,20.0,N,,HAS Khalid,VK Sharma,2023
+1359529,2023,Chennai,2023-05-10,League,RA Jadeja,MA Chidambaram Stadium,CSK,DC,CSK,bat,CSK,runs,27.0,168.0,20.0,N,,CB Gaffaney,NA Patwardhan,2023
+1359530,2023,Kolkata,2023-05-11,League,YBK Jaiswal,Eden Gardens,KKR,RR,RR,field,RR,wickets,9.0,150.0,20.0,N,,RJ Tucker,MV Saidharshan Kumar,2023
+1359531,2023,Mumbai,2023-05-12,League,SA Yadav,Wankhede Stadium,MI,GT,GT,field,MI,runs,27.0,219.0,20.0,N,,Nitin Menon,Tapan Sharma,2023
+1359533,2023,Delhi,2023-05-13,League,P Simran Singh,Arun Jaitley Stadium,PBKS,DC,DC,field,PBKS,runs,31.0,168.0,20.0,N,,CB Gaffaney,NA Patwardhan,2023
+1359532,2023,Hyderabad,2023-05-13,League,PN Mankad,Rajiv Gandhi International Stadium,SRH,LSG,SRH,bat,LSG,wickets,7.0,183.0,20.0,N,,A Totre,J Madanagopal,2023
+1359534,2023,Jaipur,2023-05-14,League,WD Parnell,Sawai Mansingh Stadium,RCB,RR,RCB,bat,RCB,runs,112.0,172.0,20.0,N,,KN Ananthapadmanabhan,Navdeep Singh,2023
+1359535,2023,Chennai,2023-05-14,League,RK Singh,MA Chidambaram Stadium,CSK,KKR,CSK,bat,KKR,wickets,6.0,145.0,20.0,N,,Tapan Sharma,Vinod Seshan,2023
+1359536,2023,Ahmedabad,2023-05-15,League,Shubman Gill,"Narendra Modi Stadium, Ahmedabad",GT,SRH,SRH,field,GT,runs,34.0,189.0,20.0,N,,J Madanagopal,UV Gandhe,2023
+1359537,2023,Lucknow,2023-05-16,League,MP Stoinis,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,MI,MI,field,LSG,runs,5.0,178.0,20.0,N,,AK Chaudhary,A Nand Kishore,2023
+1359538,2023,Dharamsala,2023-05-17,League,RR Rossouw,"Himachal Pradesh Cricket Association Stadium, Dharamsala",DC,PBKS,PBKS,field,DC,runs,15.0,214.0,20.0,N,,KN Ananthapadmanabhan,MV Saidharshan Kumar,2023
+1359539,2023,Hyderabad,2023-05-18,League,V Kohli,Rajiv Gandhi International Stadium,SRH,RCB,RCB,field,RCB,wickets,8.0,187.0,20.0,N,,BNJ Oxenford,VK Sharma,2023
+1359540,2023,Dharamsala,2023-05-19,League,D Padikkal,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,RR,RR,field,RR,wickets,4.0,188.0,20.0,N,,A Nand Kishore,RJ Tucker,2023
+1359541,2023,Delhi,2023-05-20,League,RD Gaikwad,Arun Jaitley Stadium,CSK,DC,CSK,bat,CSK,runs,77.0,224.0,20.0,N,,CB Gaffaney,NA Patwardhan,2023
+1359542,2023,Kolkata,2023-05-20,League,N Pooran,Eden Gardens,LSG,KKR,KKR,field,LSG,runs,1.0,177.0,20.0,N,,J Madanagopal,UV Gandhe,2023
+1359543,2023,Mumbai,2023-05-21,League,C Green,Wankhede Stadium,SRH,MI,MI,field,MI,wickets,8.0,201.0,20.0,N,,KN Ananthapadmanabhan,RJ Tucker,2023
+1359544,2023,Bengaluru,2023-05-21,League,Shubman Gill,M Chinnaswamy Stadium,RCB,GT,GT,field,GT,wickets,6.0,198.0,20.0,N,,Nitin Menon,VK Sharma,2023
+1370350,2023,Chennai,2023-05-23,Qualifier 1,RD Gaikwad,MA Chidambaram Stadium,CSK,GT,GT,field,CSK,runs,15.0,173.0,20.0,N,,AK Chaudhary,CB Gaffaney,2023
+1370351,2023,Chennai,2023-05-24,Eliminator,Akash Madhwal,MA Chidambaram Stadium,MI,LSG,MI,bat,MI,runs,81.0,183.0,20.0,N,,BNJ Oxenford,VK Sharma,2023
+1370352,2023,Ahmedabad,2023-05-26,Qualifier 2,Shubman Gill,"Narendra Modi Stadium, Ahmedabad",GT,MI,MI,field,GT,runs,62.0,234.0,20.0,N,,Nitin Menon,RJ Tucker,2023
+1370353,2023,Ahmedabad,2023-05-29,Final,DP Conway,"Narendra Modi Stadium, Ahmedabad",GT,CSK,CSK,field,CSK,wickets,5.0,171.0,15.0,N,D/L,Nitin Menon,RJ Tucker,2023
+1422119,2024,Chennai,2024-03-22,League,Mustafizur Rahman,MA Chidambaram Stadium,RCB,CSK,RCB,bat,CSK,wickets,6.0,174.0,20.0,N,,HAS Khalid,VK Sharma,2024
+1422121,2024,Kolkata,2024-03-23,League,AD Russell,Eden Gardens,KKR,SRH,SRH,field,KKR,runs,4.0,209.0,20.0,N,,R Pandit,YC Barde,2024
+1422120,2024,Mohali,2024-03-23,League,SM Curran,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",DC,PBKS,PBKS,field,PBKS,wickets,4.0,175.0,20.0,N,,J Madanagopal,NA Patwardhan,2024
+1422122,2024,Jaipur,2024-03-24,League,SV Samson,Sawai Mansingh Stadium,RR,LSG,RR,bat,RR,runs,20.0,194.0,20.0,N,,A Totre,HDPK Dharmasena,2024
+1422123,2024,Ahmedabad,2024-03-24,League,B Sai Sudharsan,"Narendra Modi Stadium, Ahmedabad",GT,MI,MI,field,GT,runs,6.0,169.0,20.0,N,,VA Kulkarni,VK Sharma,2024
+1422124,2024,Bengaluru,2024-03-25,League,V Kohli,M Chinnaswamy Stadium,PBKS,RCB,RCB,field,RCB,wickets,4.0,177.0,20.0,N,,AK Chaudhary,MV Saidharshan Kumar,2024
+1422125,2024,Chennai,2024-03-26,League,S Dube,MA Chidambaram Stadium,CSK,GT,GT,field,CSK,runs,63.0,207.0,20.0,N,,AG Wharf,Tapan Sharma,2024
+1422126,2024,Hyderabad,2024-03-27,League,Abhishek Sharma,Rajiv Gandhi International Stadium,SRH,MI,MI,field,SRH,runs,31.0,278.0,20.0,N,,KN Ananthapadmanabhan,UV Gandhe,2024
+1422127,2024,Jaipur,2024-03-28,League,R Parag,Sawai Mansingh Stadium,RR,DC,DC,field,RR,runs,12.0,186.0,20.0,N,,A Nand Kishore,Nitin Menon,2024
+1422128,2024,Bengaluru,2024-03-29,League,SP Narine,M Chinnaswamy Stadium,RCB,KKR,KKR,field,KKR,wickets,7.0,183.0,20.0,N,,AK Chaudhary,R Pandit,2024
+1422129,2024,Lucknow,2024-03-30,League,MP Yadav,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,PBKS,LSG,bat,LSG,runs,21.0,200.0,20.0,N,,J Madanagopal,Navdeep Singh,2024
+1422130,2024,Ahmedabad,2024-03-31,League,MM Sharma,"Narendra Modi Stadium, Ahmedabad",SRH,GT,SRH,bat,GT,wickets,7.0,163.0,20.0,N,,HAS Khalid,VK Sharma,2024
+1422131,2024,Visakhapatnam,2024-03-31,League,KK Ahmed,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,DC,CSK,DC,bat,DC,runs,20.0,192.0,20.0,N,,HDPK Dharmasena,Vinod Seshan,2024
+1422132,2024,Mumbai,2024-04-01,League,TA Boult,Wankhede Stadium,MI,RR,RR,field,RR,wickets,6.0,126.0,20.0,N,,MV Saidharshan Kumar,YC Barde,2024
+1422133,2024,Bengaluru,2024-04-02,League,MP Yadav,M Chinnaswamy Stadium,LSG,RCB,RCB,field,LSG,runs,28.0,182.0,20.0,N,,J Madanagopal,NA Patwardhan,2024
+1422134,2024,Visakhapatnam,2024-04-03,League,SP Narine,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,KKR,DC,KKR,bat,KKR,runs,106.0,273.0,20.0,N,,A Totre,UV Gandhe,2024
+1422135,2024,Ahmedabad,2024-04-04,League,Shashank Singh,"Narendra Modi Stadium, Ahmedabad",GT,PBKS,PBKS,field,PBKS,wickets,3.0,200.0,20.0,N,,Nitin Menon,VA Kulkarni,2024
+1422136,2024,Hyderabad,2024-04-05,League,Abhishek Sharma,Rajiv Gandhi International Stadium,CSK,SRH,SRH,field,SRH,wickets,6.0,166.0,20.0,N,,R Pandit,YC Barde,2024
+1422137,2024,Jaipur,2024-04-06,League,JC Buttler,Sawai Mansingh Stadium,RCB,RR,RR,field,RR,wickets,6.0,184.0,20.0,N,,AG Wharf,Tapan Sharma,2024
+1422138,2024,Mumbai,2024-04-07,League,R Shepherd,Wankhede Stadium,MI,DC,DC,field,MI,runs,29.0,235.0,20.0,N,,HDPK Dharmasena,UV Gandhe,2024
+1422139,2024,Lucknow,2024-04-07,League,Yash Thakur,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,GT,LSG,bat,LSG,runs,33.0,164.0,20.0,N,,A Nand Kishore,VK Sharma,2024
+1426260,2024,Chennai,2024-04-08,League,RA Jadeja,MA Chidambaram Stadium,KKR,CSK,CSK,field,CSK,wickets,7.0,138.0,20.0,N,,AK Chaudhary,MV Saidharshan Kumar,2024
+1426261,2024,Mohali,2024-04-09,League,Nithish Kumar Reddy,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",SRH,PBKS,PBKS,field,SRH,runs,2.0,183.0,20.0,N,,Navdeep Singh,NA Patwardhan,2024
+1426262,2024,Jaipur,2024-04-10,League,Rashid Khan,Sawai Mansingh Stadium,RR,GT,GT,field,GT,wickets,3.0,197.0,20.0,N,,HDPK Dharmasena,Vinod Seshan,2024
+1426263,2024,Mumbai,2024-04-11,League,JJ Bumrah,Wankhede Stadium,RCB,MI,MI,field,MI,wickets,7.0,197.0,20.0,N,,Nitin Menon,VA Kulkarni,2024
+1426264,2024,Lucknow,2024-04-12,League,Kuldeep Yadav,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,DC,LSG,bat,DC,wickets,6.0,168.0,20.0,N,,R Pandit,YC Barde,2024
+1426265,2024,Mohali,2024-04-13,League,SO Hetmyer,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",PBKS,RR,RR,field,RR,wickets,3.0,148.0,20.0,N,,AK Chaudhary,Tapan Sharma,2024
+1426267,2024,Mumbai,2024-04-14,League,M Pathirana,Wankhede Stadium,CSK,MI,MI,field,CSK,runs,20.0,207.0,20.0,N,,Nitin Menon,HAS Khalid,2024
+1426266,2024,Kolkata,2024-04-14,League,PD Salt,Eden Gardens,LSG,KKR,KKR,field,KKR,wickets,8.0,162.0,20.0,N,,A Totre,Vinod Seshan,2024
+1426268,2024,Bengaluru,2024-04-15,League,TM Head,M Chinnaswamy Stadium,SRH,RCB,RCB,field,SRH,runs,25.0,288.0,20.0,N,,AK Chaudhary,R Pandit,2024
+1426269,2024,Kolkata,2024-04-16,League,JC Buttler,Eden Gardens,KKR,RR,RR,field,RR,wickets,2.0,224.0,20.0,N,,MA Gough,UV Gandhe,2024
+1426270,2024,Ahmedabad,2024-04-17,League,RR Pant,"Narendra Modi Stadium, Ahmedabad",GT,DC,DC,field,DC,wickets,6.0,90.0,20.0,N,,NA Patwardhan,VK Sharma,2024
+1426271,2024,Mohali,2024-04-18,League,JJ Bumrah,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",MI,PBKS,PBKS,field,MI,runs,9.0,193.0,20.0,N,,A Nand Kishore,VA Kulkarni,2024
+1426272,2024,Lucknow,2024-04-19,League,KL Rahul,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",CSK,LSG,LSG,field,LSG,wickets,8.0,177.0,20.0,N,,AK Chaudhary,R Pandit,2024
+1426273,2024,Delhi,2024-04-20,League,TM Head,Arun Jaitley Stadium,SRH,DC,DC,field,SRH,runs,67.0,267.0,20.0,N,,J Madanagopal,Navdeep Singh,2024
+1426275,2024,Mohali,2024-04-21,League,R Sai Kishore,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",PBKS,GT,PBKS,bat,GT,wickets,3.0,143.0,20.0,N,,A Nand Kishore,VA Kulkarni,2024
+1426274,2024,Kolkata,2024-04-21,League,AD Russell,Eden Gardens,KKR,RCB,RCB,field,KKR,runs,1.0,223.0,20.0,N,,A Totre,Vinod Seshan,2024
+1426276,2024,Jaipur,2024-04-22,League,Sandeep Sharma,Sawai Mansingh Stadium,MI,RR,MI,bat,RR,wickets,9.0,180.0,20.0,N,,AK Chaudhary,MV Saidharshan Kumar,2024
+1426277,2024,Chennai,2024-04-23,League,MP Stoinis,MA Chidambaram Stadium,CSK,LSG,LSG,field,LSG,wickets,6.0,211.0,20.0,N,,NA Patwardhan,Tapan Sharma,2024
+1426278,2024,Delhi,2024-04-24,League,RR Pant,Arun Jaitley Stadium,DC,GT,GT,field,DC,runs,4.0,225.0,20.0,N,,KN Ananthapadmanabhan,UV Gandhe,2024
+1426279,2024,Hyderabad,2024-04-25,League,RM Patidar,Rajiv Gandhi International Stadium,RCB,SRH,RCB,bat,RCB,runs,35.0,207.0,20.0,N,,Nitin Menon,HAS Khalid,2024
+1426280,2024,Kolkata,2024-04-26,League,JM Bairstow,Eden Gardens,KKR,PBKS,PBKS,field,PBKS,wickets,8.0,262.0,20.0,N,,AK Chaudhary,YC Barde,2024
+1426281,2024,Delhi,2024-04-27,League,J Fraser-McGurk,Arun Jaitley Stadium,DC,MI,MI,field,DC,runs,10.0,258.0,20.0,N,,Navdeep Singh,NA Patwardhan,2024
+1426282,2024,Lucknow,2024-04-27,League,SV Samson,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,RR,RR,field,RR,wickets,7.0,197.0,20.0,N,,KN Ananthapadmanabhan,MA Gough,2024
+1426283,2024,Ahmedabad,2024-04-28,League,WG Jacks,"Narendra Modi Stadium, Ahmedabad",GT,RCB,RCB,field,RCB,wickets,9.0,201.0,20.0,N,,Nitin Menon,VK Sharma,2024
+1426284,2024,Chennai,2024-04-28,League,RD Gaikwad,MA Chidambaram Stadium,CSK,SRH,SRH,field,CSK,runs,78.0,213.0,20.0,N,,R Pandit,MV Saidharshan Kumar,2024
+1426285,2024,Kolkata,2024-04-29,League,CV Varun,Eden Gardens,DC,KKR,DC,bat,KKR,wickets,7.0,154.0,20.0,N,,Navdeep Singh,Tapan Sharma,2024
+1426286,2024,Lucknow,2024-04-30,League,MP Stoinis,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",MI,LSG,LSG,field,LSG,wickets,4.0,145.0,20.0,N,,MA Gough,UV Gandhe,2024
+1426287,2024,Chennai,2024-05-01,League,Harpreet Brar,MA Chidambaram Stadium,CSK,PBKS,PBKS,field,PBKS,wickets,7.0,163.0,20.0,N,,HAS Khalid,VK Sharma,2024
+1426288,2024,Hyderabad,2024-05-02,League,B Kumar,Rajiv Gandhi International Stadium,SRH,RR,SRH,bat,SRH,runs,1.0,202.0,20.0,N,,AK Chaudhary,YC Barde,2024
+1426289,2024,Mumbai,2024-05-03,League,VR Iyer,Wankhede Stadium,KKR,MI,MI,field,KKR,runs,24.0,170.0,20.0,N,,J Madanagopal,Tapan Sharma,2024
+1426290,2024,Bengaluru,2024-05-04,League,Mohammed Siraj,M Chinnaswamy Stadium,GT,RCB,RCB,field,RCB,wickets,4.0,148.0,20.0,N,,A Totre,Vinod Seshan,2024
+1426292,2024,Lucknow,2024-05-05,League,SP Narine,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",KKR,LSG,LSG,field,KKR,runs,98.0,236.0,20.0,N,,MV Saidharshan Kumar,YC Barde,2024
+1426291,2024,Dharamsala,2024-05-05,League,RA Jadeja,"Himachal Pradesh Cricket Association Stadium, Dharamsala",CSK,PBKS,PBKS,field,CSK,runs,28.0,168.0,20.0,N,,A Nand Kishore,VA Kulkarni,2024
+1426293,2024,Mumbai,2024-05-06,League,SA Yadav,Wankhede Stadium,SRH,MI,MI,field,MI,wickets,7.0,174.0,20.0,N,,Navdeep Singh,Tapan Sharma,2024
+1426294,2024,Delhi,2024-05-07,League,Kuldeep Yadav,Arun Jaitley Stadium,DC,RR,RR,field,DC,runs,20.0,222.0,20.0,N,,KN Ananthapadmanabhan,UV Gandhe,2024
+1426295,2024,Hyderabad,2024-05-08,League,TM Head,Rajiv Gandhi International Stadium,LSG,SRH,LSG,bat,SRH,wickets,10.0,166.0,20.0,N,,MV Saidharshan Kumar,YC Barde,2024
+1426296,2024,Dharamsala,2024-05-09,League,V Kohli,"Himachal Pradesh Cricket Association Stadium, Dharamsala",RCB,PBKS,PBKS,field,RCB,runs,60.0,242.0,20.0,N,,Nitin Menon,HAS Khalid,2024
+1426297,2024,Ahmedabad,2024-05-10,League,Shubman Gill,"Narendra Modi Stadium, Ahmedabad",GT,CSK,CSK,field,GT,runs,35.0,232.0,20.0,N,,KN Ananthapadmanabhan,NA Patwardhan,2024
+1426298,2024,Kolkata,2024-05-11,League,CV Varun,Eden Gardens,KKR,MI,MI,field,KKR,runs,18.0,158.0,16.0,N,,UV Gandhe,Vinod Seshan,2024
+1426299,2024,Chennai,2024-05-12,League,Simarjeet Singh,MA Chidambaram Stadium,RR,CSK,RR,bat,CSK,wickets,5.0,142.0,20.0,N,,R Pandit,YC Barde,2024
+1426300,2024,Bengaluru,2024-05-12,League,C Green,M Chinnaswamy Stadium,RCB,DC,DC,field,RCB,runs,47.0,188.0,20.0,N,,A Nand Kishore,VA Kulkarni,2024
+1426302,2024,Delhi,2024-05-14,League,I Sharma,Arun Jaitley Stadium,DC,LSG,LSG,field,DC,runs,19.0,209.0,20.0,N,,A Totre,Vinod Seshan,2024
+1426303,2024,Guwahati,2024-05-15,League,SM Curran,"Barsapara Cricket Stadium, Guwahati",RR,PBKS,RR,bat,PBKS,wickets,5.0,145.0,20.0,N,,R Pandit,MV Saidharshan Kumar,2024
+1426305,2024,Mumbai,2024-05-17,League,N Pooran,Wankhede Stadium,LSG,MI,MI,field,LSG,runs,18.0,215.0,20.0,N,,Navdeep Singh,R Pandit,2024
+1426306,2024,Bengaluru,2024-05-18,League,F du Plessis,M Chinnaswamy Stadium,RCB,CSK,CSK,field,RCB,runs,27.0,219.0,20.0,N,,A Totre,KN Ananthapadmanabhan,2024
+1426307,2024,Hyderabad,2024-05-19,League,Abhishek Sharma,Rajiv Gandhi International Stadium,PBKS,SRH,PBKS,bat,SRH,wickets,4.0,215.0,20.0,N,,Nitin Menon,VK Sharma,2024
+1426309,2024,Ahmedabad,2024-05-21,Qualifier 1,MA Starc,"Narendra Modi Stadium, Ahmedabad",SRH,KKR,SRH,bat,KKR,wickets,8.0,160.0,20.0,N,,AK Chaudhary,R Pandit,2024
+1426310,2024,Ahmedabad,2024-05-22,Eliminator,R Ashwin,"Narendra Modi Stadium, Ahmedabad",RCB,RR,RR,field,RR,wickets,4.0,173.0,20.0,N,,KN Ananthapadmanabhan,MV Saidharshan Kumar,2024
+1426311,2024,Chennai,2024-05-24,Qualifier 2,Shahbaz Ahmed,MA Chidambaram Stadium,SRH,RR,RR,field,SRH,runs,36.0,176.0,20.0,N,,Nitin Menon,VK Sharma,2024
+1426312,2024,Chennai,2024-05-26,Final,MA Starc,MA Chidambaram Stadium,SRH,KKR,SRH,bat,KKR,wickets,8.0,114.0,20.0,N,,J Madanagopal,Nitin Menon,2024
