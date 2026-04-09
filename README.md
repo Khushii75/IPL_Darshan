@@ -4,6 +4,12 @@
 
 This project is a machine learning-based web app that predicts IPL match outcomes and provides insights for both innings.
 
+## 🌐 Live App
+
+👉 https://ipl-vision.streamlit.app/
+
+---
+
 ## 🚀 What it does
 
 - Predicts win probability before the match
@@ -44,3 +50,18 @@ streamlit run app.py
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+---
+
+## 👩‍💻 Author
+
+**Khushi Kunwar**  
+
+Passionate about building data-driven applications and solving real-world problems using Machine Learning.
+
+🔗 GitHub: https://github.com/Khushii75  
+🔗 LinkedIn: https://www.linkedin.com/in/khushi-kumari-7718672a5  
+
+---
+
+⭐ If you like this project, consider giving it a star!
