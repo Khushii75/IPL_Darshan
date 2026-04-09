@@ -25,6 +25,16 @@ This project is a machine learning-based web app that predicts IPL match outcome
 - `models/` → trained ML models
 - `requirements.txt` → dependencies
 
+- IPL_DARSHAN/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+│
+├── dataset/
+├── models/
+
 ## ▶️ How to run
 
 ```bash
