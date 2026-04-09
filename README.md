@@ -25,7 +25,7 @@ This project is a machine learning-based web app that predicts IPL match outcome
 - `models/` → trained ML models
 - `requirements.txt` → dependencies
 
-- IPL_DARSHAN/
+IPL_DARSHAN/
 │
 ├── app.py
 ├── requirements.txt
